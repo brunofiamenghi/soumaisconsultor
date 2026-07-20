@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GDK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GDK|01|GDK_FILIAL|C|6|0|Filial|Filial
+GDK|02|GDK_CODEXA|C|4|0|Codigo|Codigo Exame
+GDK|03|GDK_NOMEXA|C|40|0|Nome|Nome Exame
+GDK|04|GDK_LOGARQ|C|40|0|Log do Arq|Log do Arq
+

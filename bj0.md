@@ -1,0 +1,8 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### BJ0  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+BJ0|01|BJ0_FILIAL|C|6|0|Filial|Filial
+BJ0|02|BJ0_CODIGO|C|3|0|Codigo|Codigo
+BJ0|03|BJ0_TIPO|C|1|0|Tipo|Tipo
+BJ0|04|BJ0_ROTINA|C|20|0|Expr. AdvPl|Expre ADV PL
+

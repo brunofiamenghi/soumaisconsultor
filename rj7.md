@@ -1,0 +1,8 @@
+## Módulo: Módulo Não Identificado  
+--- ### RJ7  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+RJ7|01|RJ7_FILIAL|C|6|0|FILIAL|FILIAL
+RJ7|02|RJ7_TABELA|C|1|0|Cod. Tabela|Codigo da Tabela
+RJ7|03|RJ7_DESCRI|C|40|0|Descricao|Descricao Tabela
+RJ7|04|RJ7_FILPAR|C|6|0|Filial Para|Filial Para
+

@@ -1,0 +1,12 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JDJ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JDJ|01|JDJ_FILIAL|C|6|0|FILIAL|Filial
+JDJ|02|JDJ_REG|C|6|0|Registro|Registro
+JDJ|03|JDJ_DIASEM|C|1|0|Dia Sem.|Dia Sem.
+JDJ|04|JDJ_PERIOD|C|1|0|Periodo|Periodo
+JDJ|05|JDJ_PRE|N|1|0|Pré-Aula|Pré-Aula
+JDJ|06|JDJ_AULA1|N|1|0|Aula 1|Aula 1
+JDJ|07|JDJ_AULA2|N|1|0|Aula 2|Aula 2
+JDJ|08|JDJ_POS|N|1|0|Pós-Aula|Pós-Aula
+

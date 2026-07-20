@@ -1,0 +1,11 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JIZ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JIZ|01|JIZ_FILIAL|C|6|0|Filial|Filial
+JIZ|02|JIZ_CODDOC|C|6|0|Cod.Docto.|Cod.Docto.
+JIZ|03|JIZ_ORDEM|C|3|0|Ordem|Ordem
+JIZ|04|JIZ_NOME|C|20|0|Nome|Nome
+JIZ|05|JIZ_TIPO|C|1|0|Tipo|Tipo
+JIZ|06|JIZ_MEMO1|C|6|0|Conteudo|Conteudo
+JIZ|07|JIZ_CONTEM|M|80|0|Conteudo|Conteudo
+

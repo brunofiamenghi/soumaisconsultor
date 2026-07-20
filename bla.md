@@ -1,0 +1,10 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### BLA  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+BLA|01|BLA_FILIAL|C|6|0|Filial|Filial
+BLA|02|BLA_CODIGO|C|6|0|Codigo|Codigo
+BLA|03|BLA_LOJA|C|2|0|Loja|Loja
+BLA|04|BLA_NOME|C|40|0|Nome|Nome
+BLA|05|BLA_CONTAT|C|30|0|Contato|Contato
+BLA|06|BLA_TELEFO|C|15|0|Telefone|Telefone
+

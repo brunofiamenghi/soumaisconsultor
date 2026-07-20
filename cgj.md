@@ -1,0 +1,13 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### CGJ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CGJ|01|CGJ_FILIAL|C|6|0|Filial|Filial
+CGJ|02|CGJ_ID|C|36|0|ID|Identificador do Registro
+CGJ|03|CGJ_PERIOD|D|8|0|Período|Período
+CGJ|04|CGJ_CNPJ|C|14|0|CNPJ|CNPJ
+CGJ|05|CGJ_CODNCM|C|10|0|NCM|NCM
+CGJ|06|CGJ_DCODNC|C|220|0|Desc. NCM|Descrição NCM
+CGJ|07|CGJ_VLCOMP|N|16|2|Val Compra|Valor da Compra
+CGJ|08|CGJ_VLEXP|N|16|2|Val Exporta.|Valor da Exportação
+CGJ|09|CGJ_STATUS|C|1|0|Status|Status do Registro
+

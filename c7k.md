@@ -1,0 +1,15 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C7K  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C7K|01|C7K_FILIAL|C|6|0|Filial|Filial
+C7K|02|C7K_ID|C|6|0|ID|ID
+C7K|03|C7K_CST|C|6|0|Id. CST|COD. CST
+C7K|04|C7K_DCST|C|220|0|Des.CST|Descricao CST
+C7K|05|C7K_VLRITE|N|16|2|Vlr.Item|Valor Tot Item
+C7K|06|C7K_VLBC|N|16|2|Vl Base Calc|Valor Base Cálculo
+C7K|07|C7K_ALIQ|N|6|2|Aliq. COFINS|Alíquota do COFINS
+C7K|08|C7K_VL|N|16|2|Vl Acumulado|Valor Acumulado
+C7K|09|C7K_CODCTA|C|36|0|Cod. Conta|Cod. COnta
+C7K|10|C7K_CTACTB|C|60|0|Cod Cta Ctb|Cód. Conta Contábil
+C7K|11|C7K_DCODCT|C|220|0|Des.Conta|Descrição Conta
+

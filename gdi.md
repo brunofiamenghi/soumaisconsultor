@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GDI  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GDI|01|GDI_FILIAL|C|6|0|Filial|Filial do Sistema
+GDI|02|GDI_CODIGO|C|6|0|Codigo|Codigo
+GDI|03|GDI_DESC|C|40|0|Descricao|Descricao do motivo
+GDI|04|GDI_LOGARQ|C|40|0|LOG|LOG DE ARQUIVO
+

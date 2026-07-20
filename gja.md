@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GJA  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GJA|01|GJA_FILIAL|C|6|0|FILIAL|FILIAL
+GJA|02|GJA_CODINR|C|2|0|Cod Inst Reg|Codigo Instrum Registro
+GJA|03|GJA_DESCRI|C|50|0|Descricao|Descricao
+GJA|04|GJA_COMPET|C|6|0|Competencia|Competencia
+

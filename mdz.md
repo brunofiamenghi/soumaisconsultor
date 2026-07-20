@@ -1,0 +1,26 @@
+## Módulo: SIGALOJA (Controle de Lojas / Varejo)  
+--- ### MDZ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+MDZ|01|MDZ_FILIAL|C|6|0|Filial|Filial do Sistema
+MDZ|02|MDZ_COO|C|9|0|COO|COO do Cupom Fiscal
+MDZ|03|MDZ_GNF|C|9|0|GNF|GNF do Cupom
+MDZ|04|MDZ_GRG|C|9|0|GRG|GRG do Cupom
+MDZ|05|MDZ_CDC|C|9|0|CDC|CDC do Cupom
+MDZ|06|MDZ_SIMBOL|C|2|0|SIMBOLO|Simbolo do Registro
+MDZ|07|MDZ_VALOR|N|15|2|Valor|Valor do Documento
+MDZ|08|MDZ_SERPDV|C|20|0|Serie ECF|Serie ECF
+MDZ|09|MDZ_PDV|C|10|0|PDV|PDV
+MDZ|10|MDZ_PAFMD5|C|32|0|PAFMD5|PAFMD5
+MDZ|11|MDZ_HORA|C|5|0|Hora|Hora
+MDZ|12|MDZ_DATA|D|8|0|Data|Data
+MDZ|13|MDZ_TIPO|C|15|0|Tipo|Tipo do Registro
+MDZ|14|MDZ_CCF|C|9|0|CCF|CCF do Cupom
+MDZ|15|MDZ_NOMCLI|C|80|0|Cliente|Nome do Cliente
+MDZ|16|MDZ_CGCCLI|C|14|0|CNPJ/CPF|CNPJ/CPF do Cliente
+MDZ|17|MDZ_SERIE|C|3|0|Série|Série do Orçamento
+MDZ|18|MDZ_SITUA|C|2|0|Situação|Situação do Registro
+MDZ|19|MDZ_NUM|C|6|0|Numero Regis|Numero Registro
+MDZ|20|MDZ_XMLEPA|M|255|0|XML Envio Pa|XML Envio Estoque PAF
+MDZ|21|MDZ_XMLRPA|M|255|0|XML Ret Paf|XML Ret Estoque PAF
+MDZ|22|MDZ_XMLENV|C|1|0|XML Enviado?|XML Enviado a SEFAZ?
+

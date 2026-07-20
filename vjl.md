@@ -1,0 +1,10 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VJL  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VJL|01|VJL_FILIAL|C|6|0|Filial|Filial
+VJL|02|VJL_CODIGO|C|6|0|Codigo|Codigo
+VJL|03|VJL_CODVJK|C|6|0|Equipamento|Equipamento
+VJL|04|VJL_CODE|C|30|0|Code|Code
+VJL|05|VJL_DESC|C|250|0|Descricao|Descricao
+VJL|06|VJL_PRICE|N|10|2|Preco|Preco
+

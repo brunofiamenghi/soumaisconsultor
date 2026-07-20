@@ -1,0 +1,7 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GH2  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GH2|01|GH2_FILIAL|C|6|0|Filial|Filial do Sistema
+GH2|02|GH2_CODCBO|C|6|0|Codigo|CBO SUS
+GH2|03|GH2_DESCBO|C|150|0|Descricao|Desc. CBO SUS
+

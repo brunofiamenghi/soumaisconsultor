@@ -1,0 +1,18 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C7T  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C7T|01|C7T_FILIAL|C|6|0|Filial|Filial
+C7T|02|C7T_ID|C|6|0|ID|Identificador Registro
+C7T|03|C7T_CSTICM|C|6|0|Id. CST ICMS|Id. CST ICMS
+C7T|04|C7T_DCSTIC|C|220|0|Des.CST ICMS|Descrição CST ICMS
+C7T|05|C7T_ORIMER|C|6|0|ID Origem|Cod. Identific. Origem
+C7T|06|C7T_DORIME|C|220|0|Desc Ori.Mer|Descr. Origem Mercadoria
+C7T|07|C7T_CFOP|C|6|0|Id. CFOP|Identificador CFOP
+C7T|08|C7T_DCFOP|C|220|0|Des. CFOP|Descrição CFOP
+C7T|09|C7T_ALQICM|N|6|2|Alíq. ICMS|Alíquota do ICMS
+C7T|10|C7T_VLOPR|N|16|2|Vlr.Operação|Valor Operação
+C7T|11|C7T_VLBCIC|N|16|2|Vlr.BC.ICMS|Valor BC ICMS
+C7T|12|C7T_VLICMS|N|16|2|Vlr. ICMS|Valor ICMS
+C7T|13|C7T_CODOBS|C|6|0|C. Obs. Lanc|Observação Lanc. Fiscal
+C7T|14|C7T_DCODOB|C|220|0|Des.Obs.Lanc|Descrição Obs. Lanc. Fisc
+

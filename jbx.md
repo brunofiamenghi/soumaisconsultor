@@ -1,0 +1,7 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JBX  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JBX|01|JBX_FILIAL|C|6|0|FILIAL|Filial
+JBX|02|JBX_COD|C|15|0|Codigo|Codigo
+JBX|03|JBX_DESC|C|80|0|Descricao|Descricao
+

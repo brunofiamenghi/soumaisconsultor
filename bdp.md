@@ -1,0 +1,12 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### BDP  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+BDP|01|BDP_FILIAL|C|6|0|Filial|Filial
+BDP|02|BDP_NUMSEQ|C|6|0|Numero Seq|Numero Sequencial
+BDP|03|BDP_OPERDA|C|4|0|Operad. RDA|Operadora RDA
+BDP|04|BDP_RDADE|C|6|0|RDA De?|RDA De?
+BDP|05|BDP_RDAATE|C|6|0|RDA Ate?|RDA Ate?
+BDP|06|BDP_ANO|C|4|0|Ano|Ano
+BDP|07|BDP_MES|C|2|0|Mes|Mes
+BDP|08|BDP_STATUS|C|1|0|Status|Status
+

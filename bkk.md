@@ -1,0 +1,10 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### BKK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+BKK|01|BKK_FILIAL|C|6|0|Filial|Filial
+BKK|02|BKK_CODTAB|C|3|0|Tabela DUT|Tabela DUT
+BKK|03|BKK_CODDUT|C|3|0|Código DUT|Código DUT
+BKK|04|BKK_CODSUB|C|2|0|Cód. SubItem|Cód. SubItem
+BKK|05|BKK_TITULO|C|254|0|Título DUT|Título DUT
+BKK|06|BKK_DESDUT|M|10|0|Descr. DUT|Descricao DUT
+

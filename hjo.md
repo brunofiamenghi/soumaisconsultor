@@ -1,0 +1,23 @@
+## Módulo: Módulo Não Identificado  
+--- ### HJO  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HJO|01|HJO_ISTCIA|C|2|0|Instancia|Instancia
+HJO|02|HJO_LINPRO|C|2|0|Lin Prod|Linha de Produto
+HJO|03|HJO_GRPEMP|C|10|0|Grp Emp|Grupo de Empresa
+HJO|04|HJO_CDUNEG|C|10|0|Unid Neg|Uidade de Negocio
+HJO|05|HJO_CDEMPR|C|10|0|Empresa|Empresa
+HJO|06|HJO_FILIAL|C|6|0|Filial|Filal
+HJO|07|HJO_INSTRU|C|32|0|MD5 - instr|Instrutor - MD5
+HJO|08|HJO_CODIGO|C|10|0|Codigo|Codigo
+HJO|09|HJO_NOME|C|120|0|Nome|Nome
+HJO|10|HJO_LIVRE0|C|50|0|Livre 0|Livre 0
+HJO|11|HJO_LIVRE1|C|50|0|Livre 1|Livre 1
+HJO|12|HJO_LIVRE2|C|50|0|Livre 2|Livre 2
+HJO|13|HJO_LIVRE3|C|50|0|Livre 3|Livre 3
+HJO|14|HJO_LIVRE4|C|50|0|Livre 4|Livre 4
+HJO|15|HJO_LIVRE5|C|50|0|Livre 5|Livre 5
+HJO|16|HJO_LIVRE6|C|50|0|Livre 6|Livre 6
+HJO|17|HJO_LIVRE7|C|50|0|Livre 7|Livre 7
+HJO|18|HJO_LIVRE8|C|50|0|Livre 8|Livre 8
+HJO|19|HJO_LIVRE9|C|50|0|Livre 9|Livre 9
+

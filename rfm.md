@@ -1,0 +1,6 @@
+## Módulo: SIGAPON (Ponto Eletrônico)  
+--- ### RFM  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+RFM|01|RFM_FILIAL|C|6|0|Filial|Filial
+RFM|02|RFM_CODEXC|C|9|0|Cód. Exceção|Código da Exceção
+

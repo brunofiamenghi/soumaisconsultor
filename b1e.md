@@ -1,0 +1,76 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### B1E  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+B1E|01|B1E_FILIAL|C|6|0|Filial|Filial do Sistema
+B1E|02|B1E_MATVID|C|8|0|Matric. Vida|Matricula da Vida
+B1E|03|B1E_DENT32|C|1|0|18|3 Molar Superior Direito
+B1E|04|B1E_DENT31|C|1|0|17|2 Molar Superior Direito
+B1E|05|B1E_DENT30|C|1|0|16|1 Molar Superior Direito
+B1E|06|B1E_DENT29|C|1|0|15|2 Pre-Molar Sup. Direito
+B1E|07|B1E_DENT28|C|1|0|14|1 Pre-Molar Sup. Direito
+B1E|08|B1E_DENT27|C|1|0|13|Canino Superior Direito
+B1E|09|B1E_DENT26|C|1|0|12|Incisivo Lateral Sup. Dir
+B1E|10|B1E_DENT25|C|1|0|11|Incisivo Central Sup. Dir
+B1E|11|B1E_DENT24|C|1|0|21|Incisivo Central Sup. Esq
+B1E|12|B1E_DENT23|C|1|0|22|Incisivo Lateral Sup. Esq
+B1E|13|B1E_DENT22|C|1|0|23|Canino Superior Esquerdo
+B1E|14|B1E_DENT21|C|1|0|24|1 Pre-Molar Sup. Esquerdo
+B1E|15|B1E_DENT20|C|1|0|25|2 Pre-Molar Sup. Esquerdo
+B1E|16|B1E_DENT19|C|1|0|26|1 Molar Superior Esquerdo
+B1E|17|B1E_DENT18|C|1|0|27|2 Molar Superior Esquerdo
+B1E|18|B1E_DENT17|C|1|0|28|3 Molar Superior Esquerdo
+B1E|19|B1E_DENT16|C|1|0|48|3 Molar Inferior Direito
+B1E|20|B1E_DENT15|C|1|0|47|2 Molar Inferior Direito
+B1E|21|B1E_DENT14|C|1|0|46|1 Molar Inferior Direito
+B1E|22|B1E_DENT13|C|1|0|45|2 Pre-Molar Inferior Dir.
+B1E|23|B1E_DENT12|C|1|0|44|1 Pre-Molar Inferior Dir.
+B1E|24|B1E_DENT11|C|1|0|43|Canino Inferior Direito
+B1E|25|B1E_DENT10|C|1|0|42|Incisivo Lateral Inf. Dir
+B1E|26|B1E_DENT9|C|1|0|41|Incisivo Central Inf. Dir
+B1E|27|B1E_DENT8|C|1|0|31|Incisivo Central Inf. Esq
+B1E|28|B1E_DENT7|C|1|0|32|Incisivo Lateral Inf. Esq
+B1E|29|B1E_DENT6|C|1|0|33|Canino Inferior Esquerdo
+B1E|30|B1E_DENT5|C|1|0|34|1 Pre-Molar Inferior Esq.
+B1E|31|B1E_DENT4|C|1|0|35|2 Pre-Molar Inferior Esq.
+B1E|32|B1E_DENT3|C|1|0|36|1 Molar Inferior Esquerdo
+B1E|33|B1E_DENT2|C|1|0|37|2 Molar Inferior Esquerdo
+B1E|34|B1E_DENT1|C|1|0|38|3 Molar Inferior Esquerdo
+B1E|35|B1E_DENT33|C|1|0|55|VER
+B1E|36|B1E_DENT34|C|1|0|54|Dente 54
+B1E|37|B1E_DENT35|C|1|0|53|.
+B1E|38|B1E_DENT36|C|1|0|52|Dente 52
+B1E|39|B1E_DENT37|C|1|0|51|Dente 51
+B1E|40|B1E_DENT38|C|1|0|61|Dente 61
+B1E|41|B1E_DENT39|C|1|0|62|Dente 62
+B1E|42|B1E_DENT40|C|1|0|63|Dente 63
+B1E|43|B1E_DENT41|C|1|0|64|Dente 64
+B1E|44|B1E_DENT42|C|1|0|65|Dente 65
+B1E|45|B1E_DENT43|C|1|0|85|Dente 85
+B1E|46|B1E_DENT44|C|1|0|84|Dente 84
+B1E|47|B1E_DENT45|C|1|0|83|Dente 83
+B1E|48|B1E_DENT46|C|1|0|82|Dente 82
+B1E|49|B1E_DENT47|C|1|0|81|Dente 81
+B1E|50|B1E_DENT48|C|1|0|71|Dente 71
+B1E|51|B1E_DENT49|C|1|0|72|Dente 72
+B1E|52|B1E_DENT50|C|1|0|73|Dente 73
+B1E|53|B1E_DENT51|C|1|0|74|Dente 74
+B1E|54|B1E_DENT52|C|1|0|75|Dente 75
+B1E|55|B1E_DENT53|C|1|0|06|Dente 06
+B1E|56|B1E_DENT54|C|1|0|05|Dente 05
+B1E|57|B1E_DENT55|C|1|0|04|Dente 04
+B1E|58|B1E_DENT56|C|1|0|03|Dente 03
+B1E|59|B1E_DENT57|C|1|0|02|Dente 02
+B1E|60|B1E_DENT58|C|1|0|01|Dente 01
+B1E|61|B1E_DENT59|C|1|0|09|Dente 09
+B1E|62|B1E_DENT60|C|1|0|10|Dente 10
+B1E|63|B1E_DENT61|C|1|0|08|Dente 08
+B1E|64|B1E_DENT62|C|1|0|07|Dente 07
+B1E|65|B1E_DENT63|C|1|0|99|Dente 99
+B1E|66|B1E_DENT64|C|1|0|97|Dente 97
+B1E|67|B1E_DENT65|C|1|0|96|Dente 96
+B1E|68|B1E_DENT66|C|1|0|95|Dente 95
+B1E|69|B1E_DENT67|C|1|0|94|Dente 94
+B1E|70|B1E_DENT68|C|1|0|93|Dente 93
+B1E|71|B1E_DENT69|C|1|0|91|Dente 91
+B1E|72|B1E_DENT70|C|1|0|90|Dente 90
+

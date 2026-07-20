@@ -1,0 +1,13 @@
+## Módulo: SIGAWCO (Web Control / Integrações de Coleta)  
+--- ### NLP  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+NLP|01|NLP_FILIAL|C|6|0|Filial|Filial
+NLP|02|NLP_NUMCTR|C|6|0|Contrato|Contrato
+NLP|03|NLP_LOTE|C|10|0|Lote|Lote
+NLP|04|NLP_CODSAF|C|15|0|Cod Safra|Cod Safra
+NLP|05|NLP_CODPRO|C|15|0|Produto|Produto
+NLP|06|NLP_ITEM|C|2|0|Item|Item
+NLP|07|NLP_LOCAL|C|2|0|Local|Local
+NLP|08|NLP_QUANT|N|9|2|Quantidade|Quantidade
+NLP|09|NLP_TSI|C|1|0|TSI|TSI
+

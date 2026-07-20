@@ -1,0 +1,7 @@
+## Módulo: SIGAGFE (Gestão de Fretes Embarcador)  
+--- ### DK2  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+DK2|01|DK2_FILIAL|C|6|0|Filial|Filial
+DK2|02|DK2_CODUM|C|2|0|Unidade|Unidade de Medida
+DK2|03|DK2_PESOKG|N|13|3|Peso KG|Peso em KG
+

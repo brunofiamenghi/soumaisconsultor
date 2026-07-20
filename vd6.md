@@ -1,0 +1,11 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VD6  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VD6|01|VD6_FILIAL|C|6|0|Filial|Filial
+VD6|02|VD6_USER|C|50|0|Usuario|Usuario
+VD6|03|VD6_PASS|C|50|0|Senha|Senha
+VD6|04|VD6_ORDER|C|50|0|Num. Ordem|Num. Ordem
+VD6|05|VD6_DESC|C|150|0|Descricao|Descricao
+VD6|06|VD6_SEQUEN|C|50|0|Sequencia|Sequencia
+VD6|07|VD6_MPHEAD|C|50|0|Cabec.MP|Cabec.MP
+

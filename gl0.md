@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GL0  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GL0|01|GL0_FILIAL|C|6|0|FILIAL|FILIAL
+GL0|02|GL0_CODPRO|C|10|0|Cod Proced.|Codigo Procedimento
+GL0|03|GL0_CODCID|C|4|0|Cod Cid|Codigo do CID
+GL0|04|GL0_TIPCID|C|1|0|Cid Princ.|Cid Principal
+GL0|05|GL0_COMPET|C|6|0|Competencia|Competencia
+

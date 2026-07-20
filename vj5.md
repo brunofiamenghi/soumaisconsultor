@@ -1,0 +1,38 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VJ5  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VJ5|01|VJ5_FILIAL|C|6|0|Filial|Filial
+VJ5|02|VJ5_DATCOM|D|8|0|Dt Compra|Dt Compra
+VJ5|03|VJ5_RENAVA|C|10|0|Renavam|Renavam
+VJ5|04|VJ5_PLAVEI|C|10|0|Nro Placa|Nro Placa
+VJ5|05|VJ5_DATVEN|D|8|0|Dt Venda|Dt Venda
+VJ5|06|VJ5_VLRVEN|N|13|2|Vlr Venda|Vlr Venda
+VJ5|07|VJ5_CUSVEN|N|13|2|Custo Venda|Custo Venda
+VJ5|08|VJ5_CPFVEN|C|11|0|CPF|CPF
+VJ5|09|VJ5_VENDED|C|20|0|Vendedor|Vendedor
+VJ5|10|VJ5_NUMNFI|C|9|0|Nota Fiscal|Nota Fiscal
+VJ5|11|VJ5_SERNFI|C|3|0|Serie|Serie
+VJ5|12|VJ5_TIPPES|C|1|0|Fisica/Jurid|Fisica/Jurid
+VJ5|13|VJ5_CPF|C|14|0|CNPJ/CPF|CNPJ/CPF
+VJ5|14|VJ5_NOME|C|50|0|Nome|Nome
+VJ5|15|VJ5_LOGRAD|C|50|0|Logradouro|Logradouro
+VJ5|16|VJ5_COMPLE|C|50|0|Complemento|Complemento
+VJ5|17|VJ5_BAIRRO|C|50|0|Bairro|Bairro
+VJ5|18|VJ5_CIDADE|C|50|0|Cidade|Cidade
+VJ5|19|VJ5_ESTADO|C|2|0|UF|UF
+VJ5|20|VJ5_CEP|C|8|0|CEP|CEP
+VJ5|21|VJ5_SEXO|C|1|0|Sexo|Sexo
+VJ5|22|VJ5_DTNSFU|D|8|0|Dt Nasc/Fund|Dt Nasc/Fund
+VJ5|23|VJ5_ESTCIV|C|1|0|Estado Civil|Estado Civil
+VJ5|24|VJ5_EMAIL|C|50|0|E-mail|E-mail
+VJ5|25|VJ5_RG|C|15|0|RG|RG
+VJ5|26|VJ5_EMPRES|C|50|0|Empresa|Empresa
+VJ5|27|VJ5_CARGO|C|50|0|Cargo|Cargo
+VJ5|28|VJ5_RENDA|N|13|2|Renda|Renda
+VJ5|29|VJ5_CELULA|C|13|0|Celular|Celular
+VJ5|30|VJ5_FAX|C|13|0|Fax|Fax
+VJ5|31|VJ5_FONE|C|13|0|Fone|Fone
+VJ5|32|VJ5_FONEMP|C|13|0|Fone Empresa|Fone Empresa
+VJ5|33|VJ5_DATCAD|D|8|0|Dt Cadastro|Dt Cadastro
+VJ5|34|VJ5_SDOC|C|3|0|Série Doc.|Série do Documento Fiscal
+

@@ -1,0 +1,18 @@
+## Módulo: SIGAGCT (Gestão de Contratos)  
+--- ### CVO  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CVO|01|CVO_FILIAL|C|6|0|Filial|Filial
+CVO|02|CVO_DATA|D|8|0|Data|Data
+CVO|03|CVO_LOTE|C|6|0|Lote|Lote
+CVO|04|CVO_SBLOTE|C|3|0|Sub Lote|Sub Lote
+CVO|05|CVO_DOC|C|6|0|Documento|Documento
+CVO|06|CVO_OPCR|C|1|0|Opcao|Opcao
+CVO|07|CVO_MOEDA|C|2|0|Moeda|Moeda
+CVO|08|CVO_SOMA|C|1|0|Soma|Soma
+CVO|09|CVO_LINHA|C|3|0|Linha|Linha
+CVO|10|CVO_FLAGO|C|1|0|Flag|Flag
+CVO|11|CVO_FKINUS|C|1|0|FK em uso|FK em uso
+CVO|12|CVO_TPSLDA|C|1|0|Tipo Saldo|Tipo Saldo
+CVO|13|CVO_CODFIL|C|6|0|Filial|Filial
+CVO|14|CVO_FLAG|C|10|0|FLAG|FLAG
+

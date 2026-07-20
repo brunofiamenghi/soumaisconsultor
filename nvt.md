@@ -1,0 +1,6 @@
+## Módulo: SIGAREST (Gestão de Restaurantes / Bares)  
+--- ### NVT  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+NVT|01|NVT_FILIAL|C|6|0|Filial|Filial
+NVT|02|NVT_TABRAT|C|6|0|Rateio|Rateio
+

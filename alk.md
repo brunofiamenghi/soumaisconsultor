@@ -1,0 +1,8 @@
+## Módulo: SIGAGEP (Gestão Educacional)  
+--- ### ALK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+ALK|01|ALK_FILIAL|C|6|0|Filial|Filial do Sistema
+ALK|02|ALK_USER|C|6|0|Usuario|Usuario
+ALK|03|ALK_NOME|C|40|0|Nome|Nome
+ALK|04|ALK_STATUS|C|1|0|Status|Status
+

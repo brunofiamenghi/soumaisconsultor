@@ -1,0 +1,81 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### SYB  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+SYB|01|YB_FILIAL|C|6|0|Filial|Filial do Sistema
+SYB|02|YB_DESP|C|3|0|Despesa|Despesa
+SYB|03|YB_DESCR|C|30|0|Descricao|Descricao
+SYB|04|YB_IDVL|C|1|0|Tipo|Tipo
+SYB|05|YB_IDVLDES|C|30|0|Tipo Calculo|Descricao de Valor ou %
+SYB|06|YB_PERCAPL|N|8|4|% Aplicado|% Aplicado
+SYB|07|YB_DESPBAS|C|9|0|Despesa Base|Despesa Base
+SYB|08|YB_MOEDA|C|3|0|Moeda|Moeda
+SYB|09|YB_VALOR|N|12|2|Valor|Valor
+SYB|10|YB_QTDEDIA|N|5|0|Qtde Dias|Qtde Dias da Data Entrega
+SYB|11|YB_RAT_FAT|C|1|0|Rat_fat|Rat_fat
+SYB|12|YB_OCORREN|C|1|0|Ocorrencia|Ocorrencia:=Pedido/Embar.
+SYB|13|YB_VAL_MAX|N|12|2|Valor Max.|Valor Maximo
+SYB|14|YB_VAL_MIN|N|12|2|Valor Min.|Valor Minimo
+SYB|15|YB_KILO1|N|12|3|1) Ate|1) Ate
+SYB|16|YB_VALOR1|N|14|4|Valor p/ Kg|Valor por Kg
+SYB|17|YB_KILO2|N|12|3|2) Ate|2) Ate
+SYB|18|YB_VALOR2|N|14|4|Valor p/ Kg|Valor por Kg
+SYB|19|YB_KILO3|N|12|3|3) Ate|3) Ate
+SYB|20|YB_VALOR3|N|14|4|Valor p/ Kg|Valor por Kg
+SYB|21|YB_KILO4|N|12|3|4) Ate|4) Ate
+SYB|22|YB_VALOR4|N|14|4|Valor p/ Kg|Valor por Kg
+SYB|23|YB_KILO5|N|12|3|5) Ate|5) Ate
+SYB|24|YB_VALOR5|N|14|4|Valor p/ Kg|Valor por Kg
+SYB|25|YB_KILO6|N|12|3|6) Ate|6) Ate
+SYB|26|YB_VALOR6|N|14|4|Valor p/ Kg|Valor por Kg
+SYB|27|YB_BASECUS|C|1|0|Base Custos|Base Custos ?
+SYB|28|YB_BASEIMP|C|1|0|Base Imposto|Base Imposto ?
+SYB|29|YB_BASEICM|C|1|0|Base ICMS|Base I.C.M.S.?
+SYB|30|YB_RATPESO|C|1|0|Rateia Peso?|Rateia Peso?
+SYB|31|YB_ICMSNFC|C|1|0|ICMS na NFC?|Cobra ICMS na NFC?
+SYB|32|YB_ICMS_AC|C|1|0|ICMS AC ?|ICMS AC ?
+SYB|33|YB_ICMS_AL|C|1|0|ICMS AL ?|ICMS AL ?
+SYB|34|YB_ICMS_AM|C|1|0|ICMS AM ?|ICMS AM ?
+SYB|35|YB_ICMS_AP|C|1|0|ICMS AP ?|ICMS AP ?
+SYB|36|YB_ICMS_BA|C|1|0|ICMS BA ?|ICMS BA ?
+SYB|37|YB_ICMS_CE|C|1|0|ICMS CE ?|ICMS CE ?
+SYB|38|YB_ICMS_DF|C|1|0|ICMS DF ?|ICMS DF ?
+SYB|39|YB_ICMS_ES|C|1|0|ICSM ES ?|ICSM ES ?
+SYB|40|YB_ICMS_GO|C|1|0|ICMS GO ?|ICMS GO ?
+SYB|41|YB_ICMS_MA|C|1|0|ICMS MA ?|ICMS MA ?
+SYB|42|YB_ICMS_MG|C|1|0|ICMS MG ?|ICMS MG ?
+SYB|43|YB_ICMS_MS|C|1|0|ICMS MS ?|ICMS MS ?
+SYB|44|YB_ICMS_MT|C|1|0|ICMS MT ?|ICMS MT ?
+SYB|45|YB_ICMS_PA|C|1|0|ICMS PA ?|ICMS PA ?
+SYB|46|YB_ICMS_PB|C|1|0|ICMS PB ?|ICMS PB ?
+SYB|47|YB_ICMS_PE|C|1|0|ICMS PE ?|ICMS PE ?
+SYB|48|YB_ICMS_PI|C|1|0|ICMS PI ?|ICMS PI ?
+SYB|49|YB_ICMS_PR|C|1|0|ICMS PR ?|ICMS PR ?
+SYB|50|YB_ICMS_RJ|C|1|0|ICMS RJ ?|ICMS RJ ?
+SYB|51|YB_ICMS_RN|C|1|0|ICMS RN ?|ICMS RN ?
+SYB|52|YB_ICMS_RO|C|1|0|ICMS RO ?|ICMS RO ?
+SYB|53|YB_ICMS_RR|C|1|0|ICMS RR ?|ICMS RR ?
+SYB|54|YB_ICMS_RS|C|1|0|ICMS RS ?|ICMS RS ?
+SYB|55|YB_ICMS_SC|C|1|0|ICMS SC ?|ICMS SC ?
+SYB|56|YB_ICMS_SE|C|1|0|ICMS SE ?|ICMS SE ?
+SYB|57|YB_ICMS_SP|C|1|0|ICMS SP ?|ICMS SP ?
+SYB|58|YB_ICMS_TO|C|1|0|ICMS TO ?|ICMS TO ?
+SYB|59|YB_EVENT|C|3|0|Evento|Evento
+SYB|60|YB_PRODUTO|C|15|0|Cod.Produto|Codigo do produto
+SYB|61|YB_ESPECIE|C|6|0|Espec.Docum.|Especie do documento
+SYB|62|YB_TXCV|C|1|0|Tx.Vda/Comp.|Taxa Venda/Compra
+SYB|63|YB_NATURE|C|4|0|Natureza|Natureza
+SYB|64|YB_TPTIT|C|3|0|Tipo Fina.|Tipo titulos Financeiro
+SYB|65|YB_PREFIX|C|3|0|Prefixo|Prefixo
+SYB|66|YB_BIPINFT|C|1|0|Base IPI NFT|Desp Base de IPI para NFT
+SYB|67|YB_CON20|N|16|2|Valor 20'|Valor 20'
+SYB|68|YB_CON40|N|16|2|Valor 40'|Valor 40'
+SYB|69|YB_CON40H|N|16|2|Valor 40' HC|Valor 40' HC
+SYB|70|YB_CONOUT|N|16|2|Valor Outros|Valor Outros
+SYB|71|YB_GERPRO|C|1|0|Gerar Prov.?|Gerar Prov.?
+SYB|72|YB_TOTNFT|C|1|0|Total NFT|Total NFT?
+SYB|73|YB_USERLGI|C|17|0|Log de Inclu|Log de Inclusao
+SYB|74|YB_USERLGA|C|17|0|Log de Alter|Log de Alteracao
+SYB|75|YB_TES|C|3|0|TES|TES
+SYB|76|YB_COD_I|C|15|0|Codigo Item|Codigo Item
+SYB|77|YB_CBSIBS|C|1|0|Base CBS/IBS|Base dos Tributos CBS/IBS
+

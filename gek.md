@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GEK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GEK|01|GEK_FILIAL|C|6|0|Filial|Filial do Sistema
+GEK|02|GEK_CODIGO|C|6|0|Codigo|Codigo
+GEK|03|GEK_DESCRI|C|40|0|Descricao|Descricao
+GEK|04|GEK_LOGARQ|C|40|0|LOG|LOG de arquivo
+

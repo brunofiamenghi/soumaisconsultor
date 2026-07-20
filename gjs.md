@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GJS  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GJS|01|GJS_FILIAL|C|6|0|FILIAL|FILIAL
+GJS|02|GJS_CDGSUS|C|6|0|Codigo|Codigo Procedimento SUS.
+GJS|03|GJS_DSGSUS|C|100|0|Descricao|Descricao Proc. SUS.
+GJS|04|GJS_COMPET|C|6|0|Competencia|Competencia
+

@@ -1,0 +1,12 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### EVE  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+EVE|01|EVE_FILIAL|C|6|0|Filial|Filial
+EVE|02|EVE_LOTE|C|20|0|ID Lote|ID Lote
+EVE|03|EVE_PGI_NU|C|10|0|Nr. PLI|Numero PLI
+EVE|04|EVE_PROANU|C|20|0|Prod Anue|Produto Anuente
+EVE|05|EVE_ORGANU|C|14|0|Orgao Anue|Orgao Anuente
+EVE|06|EVE_SEQLI|C|3|0|Seq LI|Sequencia LI
+EVE|07|EVE_SEQDUI|C|5|0|Seq. DUIMP|Sequência DUIMP
+EVE|08|EVE_LPCO|C|11|0|Nro. LPCO|Número da LPCO
+

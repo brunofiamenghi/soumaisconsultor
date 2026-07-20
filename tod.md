@@ -1,0 +1,8 @@
+## Módulo: SIGAEDC (Garantia da Qualidade / GED)  
+--- ### TOD  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+TOD|01|TOD_FILIAL|C|6|0|Filial|Filial
+TOD|02|TOD_LAUDO|C|12|0|Laudo|Laudo
+TOD|03|TOD_CODBEM|C|16|0|Bem|Bem
+TOD|04|TOD_NOME|C|40|0|Nome do Bem|Nome do Bem
+

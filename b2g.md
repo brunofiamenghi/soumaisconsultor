@@ -1,0 +1,8 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### B2G  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+B2G|01|B2G_FILIAL|C|6|0|Filial|Filial
+B2G|02|B2G_CODINT|C|4|0|Operadora|Operadora
+B2G|03|B2G_RDA|C|6|0|Cod.RDA|Cod.RDA
+B2G|04|B2G_NREDUZ|C|40|0|Nome RDA|Nome RDA
+

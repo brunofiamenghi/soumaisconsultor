@@ -1,0 +1,8 @@
+## Módulo: SIGAHSP (Gestão Hospitalar)  
+--- ### QIA  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+QIA|01|QIA_FILIAL|C|6|0|Filial|Filial do Sistema
+QIA|02|QIA_ALIAS|C|3|0|Alias|Alias
+QIA|03|QIA_ANO|C|4|0|Ano|Ano
+QIA|04|QIA_CODIGO|C|15|0|Codigo|Codigo
+

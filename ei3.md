@@ -1,0 +1,31 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### EI3  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+EI3|01|EI3_FILIAL|C|6|0|Filial|Filial
+EI3|02|EI3_ICMS_A|N|6|2|Perc. ICMS|Perc. ICMS
+EI3|03|EI3_TEC|C|10|0|TEC|TEC
+EI3|04|EI3_EX_NCM|C|3|0|EX NCM|EX NCM
+EI3|05|EI3_EX_NBM|C|3|0|EX NBM|EX NBM
+EI3|06|EI3_PESOL|N|16|5|Peso Liquido|Peso Liquido
+EI3|07|EI3_FOB|N|15|2|FOB na Moeda|FOB na Moeda
+EI3|08|EI3_FOB_R|N|15|2|FOB em Real|FOB em Real
+EI3|09|EI3_FRETE|N|15|2|Frete|Frete
+EI3|10|EI3_CIF_MO|N|15|2|CIF na Moeda|CIF na Moeda
+EI3|11|EI3_SEGURO|N|15|2|Valor Seguro|Valor Seguro
+EI3|12|EI3_CIF|N|15|2|Valor CIF|Valor CIF
+EI3|13|EI3_II|N|15|2|Valor II|Valor II
+EI3|14|EI3_IPI|N|15|2|Valor IPI|Valor IPI
+EI3|15|EI3_ICMS|N|15|2|Valor ICMS|Valor ICMS
+EI3|16|EI3_OUTRDE|N|15|2|Desp. Moeda|Desp. Moeda
+EI3|17|EI3_OUTR_U|N|15|2|Desp. Dolar|Desp. Dolar
+EI3|18|EI3_II_A|N|6|2|Perc. II|Perc. II
+EI3|19|EI3_CFO|C|5|0|CFO|CFO
+EI3|20|EI3_OPERAC|C|5|0|Operacao|Operacao
+EI3|21|EI3_NF_COM|C|9|0|N.F. Compl.|N.F. Compl.
+EI3|22|EI3_SE_NFC|C|3|0|SERIE Compl.|SERIE Compl.
+EI3|23|EI3_DT_NFC|D|8|0|DT. Compl.|DT. Compl.
+EI3|24|EI3_IPI_A|N|6|2|Perc. IPI|Perc. IPI
+EI3|25|EI3_HAWB|C|20|0|No. Conhec.|No. Conhec.
+EI3|26|EI3_TIPO_N|C|1|0|Tipo de NF|Tipo de Nota Fiscal
+EI3|27|EI3_SDOC|C|3|0|Série Doc.|Série do Documento Fiscal
+

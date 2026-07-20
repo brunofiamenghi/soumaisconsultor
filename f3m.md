@@ -1,0 +1,8 @@
+## Módulo: Módulo Não Identificado  
+--- ### F3M  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+F3M|01|F3M_FILIAL|C|6|0|Filial|Filial do Sistema
+F3M|02|F3M_CSTICM|C|2|0|CST ICMS|CST do ICMS
+F3M|03|F3M_DESCST|C|60|0|Descrição|Desc. CST ICMS
+F3M|04|F3M_IDF2W|C|36|0|Id Tabela|Identificador da Tab F2W
+

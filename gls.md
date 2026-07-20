@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GLS  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GLS|01|GLS_FILIAL|C|6|0|FILIAL|FILIAL
+GLS|02|GLS_CODIGO|C|8|0|Codigo CID|Codigo CID
+GLS|03|GLS_PATOLO|C|70|0|Patologia|Patologia
+GLS|04|GLS_TPAGRV|C|1|0|Tipo Agravo|Tipo de Agravo
+GLS|05|GLS_TPSEXO|C|1|0|Tipo de Sexo|Tipo de Sexo
+

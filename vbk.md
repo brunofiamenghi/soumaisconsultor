@@ -1,0 +1,8 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VBK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VBK|01|VBK_FILIAL|C|6|0|Filial|Filial
+VBK|02|VBK_CODIGO|C|8|0|Código|Código
+VBK|03|VBK_DESCRI|C|50|0|Descrição|Descrição
+VBK|04|VBK_ATIVO|C|1|0|Ativo|Ativo
+

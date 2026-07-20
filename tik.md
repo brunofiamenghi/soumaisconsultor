@@ -1,0 +1,8 @@
+## Módulo: SIGAEDC (Garantia da Qualidade / GED)  
+--- ### TIK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+TIK|01|TIK_FILIAL|C|6|0|Filial|Filial
+TIK|02|TIK_TAREFA|C|6|0|Tarefa|Código da Tarefa
+TIK|03|TIK_EPI|C|15|0|EPI|Código do EPI
+TIK|04|TIK_DESEPI|C|70|0|Descr. EPI|Descrição do EPI
+

@@ -1,0 +1,10 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VZO  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VZO|01|VZO_FILIAL|C|6|0|Filial|Filial
+VZO|02|VZO_CLIENT|C|6|0|Cliente|Cliente
+VZO|03|VZO_LOJA|C|2|0|Loja|Loja
+VZO|04|VZO_NOME|C|80|0|Nome|Nome
+VZO|05|VZO_TIPO|C|6|0|Tipo Neg.|Tipo Neg.
+VZO|06|VZO_DESCRI|C|40|0|Descrição|Descrição
+

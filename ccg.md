@@ -1,0 +1,8 @@
+## Módulo: SIGATMK (Telemarketing)  
+--- ### CCG  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CCG|01|CCG_FILIAL|C|6|0|Filial|Filial
+CCG|02|CCG_COD|C|7|0|Codigo|Codigo
+CCG|03|CCG_DESC|C|200|0|Descrição|Descr. da Divisao CNAE
+CCG|04|CCG_TIPO|C|1|0|Tipo|Tipo
+

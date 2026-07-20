@@ -1,0 +1,7 @@
+## Módulo: SIGAGAV (Gestão de Amostragem)  
+--- ### AJW  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+AJW|01|AJW_FILIAL|C|6|0|Filial|Filial
+AJW|02|AJW_CODIGO|C|6|0|Codigo|Codigo
+AJW|03|AJW_DESCRI|C|30|0|Descricao|Descricao
+

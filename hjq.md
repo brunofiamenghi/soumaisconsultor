@@ -1,0 +1,23 @@
+## Módulo: Módulo Não Identificado  
+--- ### HJQ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HJQ|01|HJQ_ISTCIA|C|2|0|Instancia|Instancia
+HJQ|02|HJQ_LINPRO|C|2|0|Lin Prod|Linha de Produto
+HJQ|03|HJQ_GRPEMP|C|10|0|Grp Emp|Grupo de Empresa
+HJQ|04|HJQ_CDUNEG|C|10|0|Unid Neg|Unidade de Negócio
+HJQ|05|HJQ_CDEMPR|C|10|0|Empresa|Empresa
+HJQ|06|HJQ_FILIAL|C|6|0|Filial|Filial
+HJQ|07|HJQ_TIPMOB|C|32|0|MD5 MO|Mão-de-Obra - MD5
+HJQ|08|HJQ_CODIGO|C|10|0|Codigo MO|Mão-de-Obra - Código
+HJQ|09|HJQ_DESC|C|20|0|Desc MO|Mão-de-Obra
+HJQ|10|HJQ_LIVRE0|C|50|0|Livre 0|Livre 0
+HJQ|11|HJQ_LIVRE1|C|50|0|Livre 1|Livre 1
+HJQ|12|HJQ_LIVRE2|C|50|0|Livre 2|Livre 2
+HJQ|13|HJQ_LIVRE3|C|50|0|Livre 3|Livre 3
+HJQ|14|HJQ_LIVRE4|C|50|0|Livre 4|Livre 4
+HJQ|15|HJQ_LIVRE5|C|50|0|Livre 5|Livre 5
+HJQ|16|HJQ_LIVRE6|C|50|0|Livre 6|Livre 6
+HJQ|17|HJQ_LIVRE7|C|50|0|Livre 7|Livre 7
+HJQ|18|HJQ_LIVRE8|C|50|0|Livre 8|Livre 8
+HJQ|19|HJQ_LIVRE9|C|50|0|Livre 9|Livre 9
+

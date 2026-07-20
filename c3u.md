@@ -1,0 +1,9 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C3U  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C3U|01|C3U_FILIAL|C|6|0|Filial|Filial
+C3U|02|C3U_ID|C|6|0|ID|Identificador Registro
+C3U|03|C3U_CODIGO|C|6|0|Código|Cód. Selo Contr. IPI
+C3U|04|C3U_DESCRI|C|220|0|Descrição|Descr Selo Contr. IPI
+C3U|05|C3U_VALIDA|D|8|0|Data Vigenc.|Dt Final Vigência do Cod
+

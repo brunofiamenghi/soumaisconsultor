@@ -1,0 +1,11 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JHQ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JHQ|01|JHQ_FILIAL|C|6|0|Filial|Filial
+JHQ|02|JHQ_CODFAM|C|6|0|Cod Familia|Cod Familia
+JHQ|03|JHQ_ITEM|C|3|0|Item|Item
+JHQ|04|JHQ_PLACA|C|7|0|Placa|Placa
+JHQ|05|JHQ_COR|C|25|0|Cor|Cor
+JHQ|06|JHQ_ANO|C|4|0|Ano|Ano
+JHQ|07|JHQ_MODELO|C|30|0|Modelo|Modelo
+

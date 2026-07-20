@@ -1,0 +1,8 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### T0Z  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+T0Z|01|T0Z_FILIAL|C|6|0|Filial|Filial
+T0Z|02|T0Z_ID|C|6|0|ID|ID
+T0Z|03|T0Z_CNPJEE|C|14|0|CNPJ Ent Edu|CNPJ Entidade Educacional
+T0Z|04|T0Z_VERSAO|C|14|0|Id. Ver. Reg|Id da versão do registro
+

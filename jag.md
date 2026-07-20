@@ -1,0 +1,7 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JAG  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JAG|01|JAG_FILIAL|C|6|0|FILIAL|FILIAL
+JAG|02|JAG_CODIGO|C|6|0|Codigo Area|Codigo da Area
+JAG|03|JAG_DESC|C|30|0|Descr. Area|Descricao da Area
+

@@ -1,0 +1,7 @@
+## Módulo: SIGACTB (Contabilidade Gerencial)  
+--- ### VZR  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VZR|01|VZR_FILIAL|C|6|0|Filial|Filial
+VZR|02|VZR_CODBON|C|10|0|Cod. Bonus|Codigo do Bonus
+VZR|03|VZR_CHASSI|C|25|0|Chassi|Chassi
+

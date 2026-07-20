@@ -1,0 +1,7 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VJB  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VJB|01|VJB_FILIAL|C|6|0|Filial|Filial
+VJB|02|VJB_CODVER|C|6|0|Cod Versao|Cod Versao
+VJB|03|VJB_DESVER|C|40|0|Descricao|Descricao
+

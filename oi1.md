@@ -1,0 +1,8 @@
+## Módulo: SIGAREST (Gestão de Restaurantes / Bares)  
+--- ### OI1  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+OI1|01|OI1_FILIAL|C|6|0|FILIAL|FILIAL DO SISTEMA
+OI1|02|OI1_COD|C|5|0|Cod.versao|Código da versão
+OI1|03|OI1_VERSAO|C|10|0|Versão|Versão
+OI1|04|OI1_DATA|D|8|0|Dt Inclusão|Dt Inclusão
+

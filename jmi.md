@@ -1,0 +1,8 @@
+## Módulo: SIGAMIP (Manufatura Integrada / Planejamento Avançado)  
+--- ### JMI  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JMI|01|JMI_FILIAL|C|6|0|Filial|Filial do sistema
+JMI|02|JMI_ASSUNT|C|6|0|Cod.Assunto|Código do assunto
+JMI|03|JMI_ORDEM|C|3|0|Ordem|Ordem
+JMI|04|JMI_DESCRI|C|30|0|Descricäo|Descricäo
+

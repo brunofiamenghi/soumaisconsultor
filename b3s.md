@@ -1,0 +1,10 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### B3S  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+B3S|01|B3S_FILIAL|C|6|0|Filial|Filial
+B3S|02|B3S_SUSEP|C|6|0|Reg. ANS|Registro ANS
+B3S|03|B3S_ANO|C|4|0|Ano|Ano
+B3S|04|B3S_MES|C|2|0|Mês|Mês
+B3S|05|B3S_DIA|C|2|0|Dia|Dia
+B3S|06|B3S_CODIGO|C|6|0|Código|Código
+

@@ -1,0 +1,15 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C7J  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C7J|01|C7J_FILIAL|C|6|0|Filial|Fiial
+C7J|02|C7J_ID|C|6|0|ID|ID
+C7J|03|C7J_CST|C|6|0|Id. CST|COD. CST
+C7J|04|C7J_DCST|C|220|0|Des. CST|Descrição CST
+C7J|05|C7J_VLRITE|N|16|2|Vlr.Item|Valor Tot Item
+C7J|06|C7J_VLRBC|N|16|2|Vl Base Calc|Valor Base Cálculo
+C7J|07|C7J_ALIQ|N|6|2|Aliq. PIS|Alíquota PIS/PASEP
+C7J|08|C7J_VL|N|16|2|Vl Acumulado|Valor Acumulado
+C7J|09|C7J_CODCTA|C|36|0|Cod. Conta|Cod. Conta
+C7J|10|C7J_CTACTB|C|60|0|Cod Cta Ctb|Cód Conta Contábil
+C7J|11|C7J_DCODCT|C|220|0|Des. Conta|Descrição Conta
+

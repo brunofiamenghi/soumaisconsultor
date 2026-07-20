@@ -1,0 +1,9 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### V8R  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+V8R|01|V8R_FILIAL|C|6|0|Filial|Filial
+V8R|02|V8R_ID|C|6|0|Id|Id
+V8R|03|V8R_VERSAO|C|14|0|Id de Versão|Versão Reg.
+V8R|04|V8R_CPFTRA|C|11|0|CPF Benef.|CPF do Beneficiário
+V8R|05|V8R_DTLAUD|D|8|0|Dt. Laudo|Dt. Laudo
+

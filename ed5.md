@@ -1,0 +1,43 @@
+## Módulo: SIGANFS (Nota Fiscal de Serviço Eletrônica - Legado)  
+--- ### ED5  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+ED5|01|ED5_FILIAL|C|6|0|Filial|Filial do Sistema
+ED5|02|ED5_PD|C|13|0|Ped.Drawback|Pedido de Drawback
+ED5|03|ED5_AC|C|13|0|Ato Concess.|Ato Concessorio
+ED5|04|ED5_NRADI|C|13|0|Nro. Aditiv|Numero do Aditivo
+ED5|05|ED5_DT_REG|D|8|0|Dt. Registro|Data de Registro
+ED5|06|ED5_DT_EMI|D|8|0|Dt. Emissao|Data da Emissao
+ED5|07|ED5_SEQSIS|C|4|0|Seq.SISCOMEX|Sequencia no SISCOMEX
+ED5|08|ED5_OPCOES|C|2|0|Conces. Alt.|Opcoes de Alt. Aditivo
+ED5|09|ED5_DE|C|115|0|De|De
+ED5|10|ED5_DE01|C|115|0|De 1|De 1
+ED5|11|ED5_DE02|C|115|0|De 2|De 2
+ED5|12|ED5_DE03|C|115|0|De 3|De 3
+ED5|13|ED5_DE04|C|115|0|De 4|De 4
+ED5|14|ED5_DE05|C|115|0|De 5|De 5
+ED5|15|ED5_DE06|C|115|0|De 6|De 6
+ED5|16|ED5_DE07|C|115|0|De 7|De 7
+ED5|17|ED5_DE08|C|115|0|De 8|De 8
+ED5|18|ED5_DE09|C|115|0|De 9|De 9
+ED5|19|ED5_DE10|C|115|0|De 10|De 10
+ED5|20|ED5_DE11|C|115|0|De 11|De 11
+ED5|21|ED5_DE12|C|115|0|De 12|De 12
+ED5|22|ED5_PARA|C|115|0|Para|Para
+ED5|23|ED5_PARA01|C|115|0|Para 1|Para 1
+ED5|24|ED5_PARA02|C|115|0|Para 2|Para 2
+ED5|25|ED5_PARA03|C|115|0|Para 3|Para 3
+ED5|26|ED5_PARA04|C|115|0|Para 4|Para 4
+ED5|27|ED5_PARA05|C|115|0|Para 5|Para 5
+ED5|28|ED5_PARA06|C|115|0|Para 6|Para 6
+ED5|29|ED5_PARA07|C|115|0|Para 7|Para 7
+ED5|30|ED5_PARA08|C|115|0|Para 8|Para 8
+ED5|31|ED5_PARA09|C|115|0|Para 9|Para 9
+ED5|32|ED5_PARA10|C|115|0|Para 10|Para 10
+ED5|33|ED5_PARA11|C|115|0|Para 11|Para 11
+ED5|34|ED5_PARA12|C|115|0|Para 12|Para 12
+ED5|35|ED5_IM_EX|C|1|0|Imp/Exp|Importacao ou Exportacao
+ED5|36|ED5_REFER|C|100|0|Referencia|Referencia
+ED5|37|ED5_ANEXO|C|3|0|Num. Anexo|Numero do Anexo
+ED5|38|ED5_ENVIA|D|8|0|Dt Envio|Dt Envio do Aditivo
+ED5|39|ED5_TIPO|C|1|0|Imp./Exp.|Importacao/Exportacao
+

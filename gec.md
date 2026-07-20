@@ -1,0 +1,7 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GEC  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GEC|01|GEC_FILIAL|C|6|0|Filial|Filial
+GEC|02|GEC_TIPO|C|2|0|Tipo|Tipo do Livro
+GEC|03|GEC_DESCTP|C|40|0|Descr. Tipo|Descr. Tipo
+

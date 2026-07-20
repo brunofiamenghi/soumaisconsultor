@@ -1,0 +1,13 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### V3X  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+V3X|01|V3X_FILIAL|C|6|0|FILIAL|FILIAL
+V3X|02|V3X_ID|C|36|0|ID|ID do tributo
+V3X|03|V3X_CNPJ|C|14|0|CNPJ|CNPJ
+V3X|04|V3X_NOME|C|100|0|Nome|Nome
+V3X|05|V3X_INIPER|C|6|0|Início.Valid|Início Validade AAAA-MM
+V3X|06|V3X_FINPER|C|6|0|Fim.Validade|Término da validade
+V3X|07|V3X_TPENTL|C|1|0|Entidade Lig|Entidade Ligada
+V3X|08|V3X_ATIVO|C|1|0|Reg. Ativo?|Registro Ativo
+V3X|09|V3X_PROCID|C|6|0|Proc ID|Id de Processamento
+

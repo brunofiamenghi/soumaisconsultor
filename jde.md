@@ -1,0 +1,7 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JDE  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JDE|01|JDE_FILIAL|C|6|0|FILIAL|Filial
+JDE|02|JDE_CODIGO|C|6|0|Codigo|Codigo
+JDE|03|JDE_DESCRI|C|40|0|Descricao|Descricao
+

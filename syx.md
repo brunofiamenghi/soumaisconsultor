@@ -1,0 +1,13 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### SYX  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+SYX|01|YX_FILIAL|C|6|0|FILIAL|FILIAL DO SISTEMA
+SYX|02|YX_MACHINE|C|15|0|Produto/Kit|Produto/KIT
+SYX|03|YX_TYP_MOD|C|30|0|Serie|Tipo / Modelo /Serie
+SYX|04|YX_COD_I|C|15|0|Codigo Item|Codigo do Item
+SYX|05|YX_FATOR|N|7|2|Quantidade|FATOR
+SYX|06|YX_INSUMO|C|4|0|Cod. Insumo|INSUMO
+SYX|07|YX_TEC|C|10|0|TEC|TEC
+SYX|08|YX_DES_ZFM|C|254|0|Descricao|Descricao do Item SUFRAMA
+SYX|09|YX_COD_ZFM|C|11|0|Codigo ZFM|Codigo Produto Suframa
+

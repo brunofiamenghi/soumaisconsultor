@@ -1,0 +1,9 @@
+## Módulo: Módulo Não Identificado  
+--- ### CJF  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CJF|01|CJF_FILIAL|C|6|0|Filial|Filial
+CJF|02|CJF_COD|C|4|0|Codigo|Codigo
+CJF|03|CJF_TIPO|C|1|0|Tipo Oper.|Tipo da Operação
+CJF|04|CJF_CFOP|C|4|0|CFOP|CFOP
+CJF|05|CJF_DCFOP|C|60|0|Descr. CFOP|Descrição do CFOP
+

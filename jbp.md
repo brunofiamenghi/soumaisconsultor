@@ -1,0 +1,8 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JBP  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JBP|01|JBP_FILIAL|C|6|0|FILIAL|FILIAL
+JBP|02|JBP_COD|C|6|0|Codigo|Codigo
+JBP|03|JBP_DESC|C|30|0|Descricao|Descricao
+JBP|04|JBP_NOME|C|15|0|Nome Word|Nome Word
+

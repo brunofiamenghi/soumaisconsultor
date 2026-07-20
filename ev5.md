@@ -1,0 +1,11 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### EV5  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+EV5|01|EV5_FILIAL|C|6|0|Filial|Filial
+EV5|02|EV5_HAWB|C|20|0|Processo|Processo
+EV5|03|EV5_ADICAO|C|3|0|Nr. Adicao|Numero Adicao
+EV5|04|EV5_PGI_NU|C|10|0|Nr. PLI|Numero PLI
+EV5|05|EV5_LOTE|C|20|0|ID Lote|ID Lote
+EV5|06|EV5_DESTAQ|C|3|0|Destaque/NCM|Destaque/NCM
+EV5|07|EV5_SEQLI|C|3|0|Seq LI|Sequencia LI
+

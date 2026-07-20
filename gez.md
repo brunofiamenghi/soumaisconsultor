@@ -1,0 +1,13 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GEZ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GEZ|01|GEZ_FILIAL|C|6|0|Filial|Filial do Sistema
+GEZ|02|GEZ_CODPEN|C|6|0|Codigo|CODIGO DA PENDENCIA
+GEZ|03|GEZ_DESPEN|C|40|0|Descricao|Descricao da Pendencia
+GEZ|04|GEZ_DATA|D|8|0|Data|Data
+GEZ|05|GEZ_HORA|C|5|0|Hora|Hora
+GEZ|06|GEZ_ATIVO|C|1|0|Ativo|Ativo sim ou nao
+GEZ|07|GEZ_OBSERV|C|50|0|Observacao|Observacao
+GEZ|08|GEZ_LOGARQ|C|40|0|LOG|LOG DE ARQUIVO
+GEZ|09|GEZ_NRSEQG|C|6|0|Seq.Guia|Sequencia da Guia
+

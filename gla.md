@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GLA  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GLA|01|GLA_FILIAL|C|6|0|FILIAL|FILIAL
+GLA|02|GLA_CODINR|C|2|0|Cod Inst Reg|Codigo Instrum Registro
+GLA|03|GLA_DESCRI|C|50|0|Descricao|Descricao
+GLA|04|GLA_COMPET|C|6|0|Competencia|Competencia
+

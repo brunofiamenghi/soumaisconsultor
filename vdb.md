@@ -1,0 +1,8 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VDB  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VDB|01|VDB_FILIAL|C|6|0|Filial|Filial
+VDB|02|VDB_CODDEF|C|6|0|Codigo DEF|Codigo DEF
+VDB|03|VDB_DATA|D|8|0|Data Fecto|Data Fecto
+VDB|04|VDB_FREQUE|C|1|0|Frequencia|Frequencia
+

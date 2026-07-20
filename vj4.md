@@ -1,0 +1,10 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VJ4  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VJ4|01|VJ4_FILIAL|C|6|0|Filial|Filial
+VJ4|02|VJ4_DATCOM|D|8|0|Dt Compra|Dt Compra
+VJ4|03|VJ4_RENAVA|C|10|0|Renavam|Renavam
+VJ4|04|VJ4_PLAVEI|C|10|0|Nro Placa|Nro Placa
+VJ4|05|VJ4_SEQUEN|C|2|0|Sequencia|Sequencia
+VJ4|06|VJ4_OPCION|C|20|0|Opcional|Opcional
+

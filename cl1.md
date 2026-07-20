@@ -1,0 +1,23 @@
+## Módulo: Módulo Não Identificado  
+--- ### CL1  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CL1|01|CL1_FILIAL|C|6|0|Filial|Filial
+CL1|02|CL1_PER|D|8|0|Per.Apur.|Periodo de Apuracao
+CL1|03|CL1_ID|C|46|0|Id Cont.|ID Contador
+CL1|04|CL1_CSTPIS|C|2|0|CST PIS|CST PIS
+CL1|05|CL1_CSTCOF|C|2|0|CST COF|CST COF
+CL1|06|CL1_ALQPIS|N|14|4|Alq.PIS|Alíquota do PIS
+CL1|07|CL1_ALQCOF|N|14|4|Alq.COF|Alíquota da COFINS
+CL1|08|CL1_MOD|C|2|0|Cod.Modelo|Modelo de Documento
+CL1|09|CL1_CFOP|C|4|0|CFOP|CFOP
+CL1|10|CL1_PAUTA|C|1|0|Pauta|Operação com Pauta
+CL1|11|CL1_VLREC|N|14|2|Vl.Receb.|Valor Recebido
+CL1|12|CL1_DSCPIS|N|14|2|Desc.PIS|Desconto de PIS
+CL1|13|CL1_BSEPIS|N|14|2|Base PIS|Base de Cálculo de PIS
+CL1|14|CL1_VLPIS|N|14|2|Valor PIS|Valor de PIS
+CL1|15|CL1_DSCCOF|N|14|2|Desc.COF|Desconto de COFINS
+CL1|16|CL1_BSECOF|N|14|2|Base COF|Base de Cálculo da COFINS
+CL1|17|CL1_VLCOF|N|14|2|Valor COF|Valor da COFINS
+CL1|18|CL1_CODCTA|C|20|0|Código CTA|Conta Contábil
+CL1|19|CL1_FILAPU|C|6|0|Fil.Apur.|Filial da Apuracao
+

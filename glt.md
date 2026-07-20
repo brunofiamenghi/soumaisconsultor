@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GLT  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GLT|01|GLT_FILIAL|C|6|0|FILIAL|FILIAL
+GLT|02|GLT_CODTPG|C|6|0|Tipo de Guia|Tipo de Guia
+GLT|03|GLT_CODMOD|C|2|0|Cod. Modal.|Cod. Modalidade Atend.
+GLT|04|GLT_DESCRI|C|40|0|Descricao|Descricao
+

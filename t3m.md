@@ -1,0 +1,8 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### T3M  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+T3M|01|T3M_FILIAL|C|6|0|Filial|Filial
+T3M|02|T3M_ID|C|6|0|ID|ID do registro
+T3M|03|T3M_CODERP|C|20|0|Código ERP|Código ERP
+T3M|04|T3M_VERSAO|C|14|0|Id. Ver. Reg|Id da versao do registro
+

@@ -1,0 +1,73 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### EI2  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+EI2|01|EI2_FILIAL|C|6|0|Filial|Filial do Sistema
+EI2|02|EI2_DOC|C|9|0|No. N.F.E.|No. N.F.E.
+EI2|03|EI2_HAWB|C|20|0|No. Conhec.|No. Conhec.
+EI2|04|EI2_SERIE|C|3|0|Série N.F.E.|Série N.F.E.
+EI2|05|EI2_TEC|C|10|0|T.E.C.|T.E.C.
+EI2|06|EI2_EX_NCM|C|3|0|Ex-NCM|Ex-NCM
+EI2|07|EI2_EX_NBM|C|3|0|Ex-NBM|Ex-NBM
+EI2|08|EI2_PO_NUM|C|20|0|Nº Pedido|Nº Pedido
+EI2|09|EI2_POSICA|C|4|0|Nº Ítem|Nº Ítem
+EI2|10|EI2_PRODUT|C|15|0|Produto|Produto
+EI2|11|EI2_QUANT|N|13|3|Quantidade|Quantidade
+EI2|12|EI2_VALOR|N|14|2|Valor|Valor
+EI2|13|EI2_VALIPI|N|14|2|Valor I.P.I.|Valor I.P.I.
+EI2|14|EI2_VACRES|N|15|2|Acrescimos|Acrescimos
+EI2|15|EI2_VALICM|N|14|2|Valor ICMS|Valor ICMS
+EI2|16|EI2_VDEDUC|N|15|2|Deducoes|Deducoes
+EI2|17|EI2_ICMS_A|N|6|2|% ICMS|% ICMS
+EI2|18|EI2_PRECO|N|15|2|Preco|Preco
+EI2|19|EI2_DESCR|C|60|0|Descricao|Descricao
+EI2|20|EI2_UNI|C|3|0|Unidade|Unidade
+EI2|21|EI2_IPITX|N|6|2|Taxa I.P.I.|Taxa I.P.I.
+EI2|22|EI2_IPIVAL|N|15|2|Vlr .I.P.I.|Vlr .I.P.I.
+EI2|23|EI2_IITX|N|6|2|Taxa I.I.|Taxa I.I.
+EI2|24|EI2_IIVAL|N|15|2|Vlr .I.I.|Vlr .I.I.
+EI2|25|EI2_PESOL|N|16|5|Peso Liquido|Peso Liquido
+EI2|26|EI2_PRUNI|N|16|8|Prc Unitario|Prc Unitario
+EI2|27|EI2_RATEIO|N|11|8|Rateio|Rateio
+EI2|28|EI2_VL_ICM|N|15|2|Valor ICMS|Valor ICMS
+EI2|29|EI2_SEGURO|N|15|2|Vlr.Seguro|Vlr.Seguro
+EI2|30|EI2_CIF|N|15|2|C.I.F.|C.I.F.
+EI2|31|EI2_DESPES|N|15|2|Vlr.Despesas|Vlr.Despesas
+EI2|32|EI2_FRETE|N|15|2|Vlr.Frete|Vlr.Frete
+EI2|33|EI2_SI_NUM|C|6|0|No. da S.I.|No. da S.I.
+EI2|34|EI2_CC|C|5|0|Centro Custo|Centro Custo
+EI2|35|EI2_CFO|C|5|0|C.F.O.|C.F.O.
+EI2|36|EI2_OPERAC|C|5|0|Operacao|Operacao
+EI2|37|EI2_REC_ID|N|9|0|No. Registro|No. Registro
+EI2|38|EI2_FORNEC|C|6|0|Fornecedor|Fornecedor
+EI2|39|EI2_LOJA|C|2|0|Loja|Loja
+EI2|40|EI2_OUTR_U|N|15|2|Despesa|Despesa
+EI2|41|EI2_IPIBAS|N|15|2|IPI Base|IPI Base
+EI2|42|EI2_TIPO_N|C|1|0|Tipo N.F.|Tipo N.F.
+EI2|43|EI2_PGI_NU|C|10|0|Nr. PLI|Nr. PLI
+EI2|44|EI2_LOTECT|C|10|0|No.Lote|Numero Lote
+EI2|45|EI2_DTVALI|D|8|0|Dt.Validade|Data de Validade
+EI2|46|EI2_BASPIS|N|15|2|Base PIS|Base PIS
+EI2|47|EI2_BASCOF|N|15|2|Base COFINS|Base COFINS
+EI2|48|EI2_PERPIS|N|6|2|% PIS|% PIS
+EI2|49|EI2_PERCOF|N|6|2|% COFINS|% COFINS
+EI2|50|EI2_VLRPIS|N|15|2|Valor PIS|Valor PIS
+EI2|51|EI2_VLRCOF|N|15|2|Valor COFINS|Valor COFINS
+EI2|52|EI2_VLUPIS|N|9|2|Vlr Unit PIS|Vlr Unit PIS
+EI2|53|EI2_VLUCOF|N|9|2|Vl Uni COFIN|Vl Uni COFINS
+EI2|54|EI2_VLDIPI|N|15|2|Vlr Dev. IPI|Vlr Dev. IPI
+EI2|55|EI2_VLDEII|N|15|2|Vlr Dev. II|Vlr Dev. II
+EI2|56|EI2_INVOIC|C|20|0|Invoice|.
+EI2|57|EI2_PACKIN|N|15|8|Packing|Packing
+EI2|58|EI2_DESCON|N|16|4|Desconto|Desconto
+EI2|59|EI2_OUT_DE|N|15|8|Outras Desp.|Outras Despesas
+EI2|60|EI2_INLAND|N|15|8|Inland|Inland
+EI2|61|EI2_FOB_R|N|15|2|Valor FOB R$|Valor FOB Real
+EI2|62|EI2_NOTA|C|9|0|No. N.F.E.|No. N.F.E.
+EI2|63|EI2_VLCOFM|N|9|2|Vl. M.COFINS|Vl. Majorado Cofins
+EI2|64|EI2_VLPISM|N|9|2|Vl. M. PIS|Vl. Majorado PIS
+EI2|65|EI2_VIPINT|N|15|2|Vlr.IPI.NFT|Valor do IPI na NF Transf
+EI2|66|EI2_VICMNT|N|15|2|Vlr.ICMS.NFT|Vlr. do ICMS na NF Transf
+EI2|67|EI2_DFABRI|D|8|0|Data Fabric.|Data de fabricaçao lote
+EI2|68|EI2_SDOC|C|3|0|Série Doc.|Série do Documento Fiscal
+EI2|69|EI2_VLR_DU|N|15|2|Vl A-Dup Rec|Vlr Anti Dumping recolher
+

@@ -1,0 +1,15 @@
+## Módulo: Módulo Não Identificado  
+--- ### CFE  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CFE|01|CFE_FILIAL|C|6|0|Filial|Filial
+CFE|02|CFE_CODLEG|C|4|0|Enq. Legal|Cod. Enq. Legal
+CFE|03|CFE_CODIGO|C|2|0|Codigo|Codigo
+CFE|04|CFE_ANEXO|C|10|0|Anexo|Anexo RICMS
+CFE|05|CFE_ART|C|10|0|Artigo|Artigo RICMS
+CFE|06|CFE_INC|C|10|0|Inciso|Inciso RICMS
+CFE|07|CFE_ALIN|C|10|0|Alinea|Alinea RICMS
+CFE|08|CFE_PRG|C|10|0|Paragrafo|Paragrafo RICMS
+CFE|09|CFE_ITM|C|10|0|Item|Item RICMS
+CFE|10|CFE_LTR|C|10|0|Letra|Letra RICMS
+CFE|11|CFE_OBS|C|30|0|Observacao|Observacao
+

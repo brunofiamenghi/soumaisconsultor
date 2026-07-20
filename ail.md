@@ -1,0 +1,9 @@
+## Módulo: SIGATMK (Telemarketing)  
+--- ### AIL  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+AIL|01|AIL_FILIAL|C|6|0|Filial|Filial do Sistema
+AIL|02|AIL_ITEM|C|2|0|Item|Item
+AIL|03|AIL_CODAIK|C|10|0|Codigo|Cod.AIK
+AIL|04|AIL_REFROT|C|2|0|Cod.Rot.|Rotina
+AIL|05|AIL_DESCRO|C|50|0|Rotina Bloq.|Rotina Bloqueada
+

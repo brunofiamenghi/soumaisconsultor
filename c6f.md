@@ -1,0 +1,9 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C6F  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C6F|01|C6F_FILIAL|C|6|0|Filial|Filial
+C6F|02|C6F_ID|C|6|0|ID|Identificador Registro
+C6F|03|C6F_CODECF|C|6|0|Id.ECF|Id. Codigo ECF
+C6F|04|C6F_DCODEC|C|220|0|Des.Cod.ECF|Des.Cod.Identif.ECF
+C6F|05|C6F_STATUS|C|1|0|Status|Status do Registro
+

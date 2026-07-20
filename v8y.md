@@ -1,0 +1,17 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### V8Y  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+V8Y|01|V8Y_FILIAL|C|6|0|FILIAL|FILIAL
+V8Y|02|V8Y_ID|C|6|0|Id Tabela|Id da Tabela
+V8Y|03|V8Y_VERSAO|C|14|0|Versão|Versão
+V8Y|04|V8Y_IDPROC|C|6|0|Processo|ID do Processo
+V8Y|05|V8Y_PERAPU|C|6|0|Período|Período
+V8Y|06|V8Y_CPFTRA|C|11|0|CPF|CPF
+V8Y|07|V8Y_TPCR|C|6|0|Id. Cód. Rec|Id. Cód. Rec
+V8Y|08|V8Y_CHAVE|C|6|0|Chave|Chave
+V8Y|09|V8Y_DESCRA|C|50|0|Desc RRA|Descrição RRA
+V8Y|10|V8Y_QTMRRA|N|4|0|Núm RRA|Número do RRA
+V8Y|11|V8Y_VLRCUS|N|14|2|Vl Custo Jud|valor das despesas custo
+V8Y|12|V8Y_VLRADV|N|14|2|Vl Desp Adv|Valor Despesa Advogado
+V8Y|13|V8Y_IDESEQ|C|3|0|Nr Seq Pro|Nr Seq Processo
+

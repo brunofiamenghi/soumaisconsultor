@@ -1,0 +1,10 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VH9  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VH9|01|VH9_FILIAL|C|6|0|Filial|Filial do Sistema
+VH9|02|VH9_PREFIX|C|10|0|Prefixo|Prefixo
+VH9|03|VH9_DATOPE|D|8|0|Data|Data
+VH9|04|VH9_HOROPE|N|6|0|Hora|Hora
+VH9|05|VH9_USUARI|C|15|0|Usuario|Usuario
+VH9|06|VH9_ROTINA|C|10|0|Rotina|Rotina
+

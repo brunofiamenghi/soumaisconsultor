@@ -1,0 +1,10 @@
+## Módulo: SIGAEDC (Garantia da Qualidade / GED)  
+--- ### TKK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+TKK|01|TKK_FILIAL|C|6|0|Filial|Filial
+TKK|02|TKK_ACIDEN|C|6|0|Acidente|Acidente
+TKK|03|TKK_GRPCID|C|3|0|Grupo CID|Grupo CID
+TKK|04|TKK_DESGRP|C|220|0|Desc. Grupo|Desc. Grupo
+TKK|05|TKK_CID|C|8|0|CID Compl.|CID Compl.
+TKK|06|TKK_DOENCA|C|220|0|Desc. Doenca|Desc. Doenca
+

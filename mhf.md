@@ -1,0 +1,7 @@
+## Módulo: SIGALOJA (Controle de Lojas / Varejo)  
+--- ### MHF  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+MHF|01|MHF_FILIAL|C|6|0|Filial|Filial do Sistema
+MHF|02|MHF_CODIGO|C|6|0|Código|Codigo
+MHF|03|MHF_NOME|C|20|0|Nome|Nome
+

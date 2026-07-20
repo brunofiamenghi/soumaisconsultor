@@ -1,0 +1,9 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### V3F  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+V3F|01|V3F_FILIAL|C|6|0|Filial|Filial
+V3F|02|V3F_ID|C|6|0|ID|ID Registro
+V3F|03|V3F_CODIGO|C|2|0|Codigo|Codigo Registro
+V3F|04|V3F_DESCRI|C|100|0|Descricao|Descricao
+V3F|05|V3F_VALIDA|D|8|0|Validade|Validade A.C
+

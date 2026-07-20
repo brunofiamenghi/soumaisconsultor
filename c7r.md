@@ -1,0 +1,26 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C7R  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C7R|01|C7R_FILIAL|C|6|0|Filial|Filial
+C7R|02|C7R_ID|C|6|0|ID|ID
+C7R|03|C7R_IT|C|36|0|Id. item|Identificador do Item
+C7R|04|C7R_ITEM|C|60|0|Cód. Item|Código do Item
+C7R|05|C7R_DIT|C|220|0|Des.Produto|Descrição Produto
+C7R|06|C7R_CFOP|C|6|0|CFOP|Código Fiscal de Operação
+C7R|07|C7R_DCFOP|C|220|0|Des.CFOP|Descricao do CFOP
+C7R|08|C7R_VLRITE|N|16|2|Vlr. Item|Valor Tot Item
+C7R|09|C7R_CSTPIS|C|6|0|CST PIS|Cód da Sit Tributária PIS
+C7R|10|C7R_DCSTP|C|220|0|Desc CST PIS|Desc. CST PIS/PASEP
+C7R|11|C7R_BCPIS|N|16|3|Vlr BC PIS|Valor BC PIS
+C7R|12|C7R_ALQPIS|N|7|4|Aliq. PIS|Aliquota PIS
+C7R|13|C7R_VLPIS|N|16|2|Valor PIS|Valor PIS/PASEP
+C7R|14|C7R_CSTCOF|C|6|0|CST COFINS|Cód Sit Tributária COFINS
+C7R|15|C7R_DCSTC|C|220|0|Desc COFINS|Desc. CST COFINS
+C7R|16|C7R_BCCOF|N|16|3|Vlr BC COF|Valor BC COFINS
+C7R|17|C7R_ALQCOF|N|7|4|Aliq. COF|Aliquota COFINS
+C7R|18|C7R_VLCOF|N|16|2|Valor COF|Valor COF
+C7R|19|C7R_CTA|C|36|0|Id. CContabi|Id. Conta Contabil
+C7R|20|C7R_CTACTB|C|60|0|Cta Contab|Conta Contábil
+C7R|21|C7R_DCTA|C|220|0|Des.Ccontab|Des.Ccontab
+C7R|22|C7R_VLDESC|N|16|2|Vl Excl/Desc|Valor da Exclusão/Descont
+

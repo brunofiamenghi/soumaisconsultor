@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GLG  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GLG|01|GLG_FILIAL|C|6|0|FILIAL|FILIAL
+GLG|02|GLG_CODPRO|C|10|0|Procedimento|Cod. Procedimento
+GLG|03|GLG_CODCBO|C|6|0|Cod. C.B.O.|Codigo C.B.O.
+GLG|04|GLG_DESCBO|C|150|0|Desc. C.B.O.|Descricao C.B.O.
+GLG|05|GLG_COMPET|C|6|0|Competencia|Competencia
+

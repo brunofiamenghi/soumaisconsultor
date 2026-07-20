@@ -1,0 +1,7 @@
+## Módulo: SIGAGCT (Gestão de Contratos)  
+--- ### CVS  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CVS|01|CVS_FILIAL|C|6|0|Filial|Filial do Sistema
+CVS|02|CVS_IDTSCP|C|14|0|Ident.SCP|Identificador SCP
+CVS|03|CVS_NOMSCP|C|50|0|Nome SCP|Nome SCP
+

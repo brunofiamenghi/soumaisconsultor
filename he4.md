@@ -1,0 +1,11 @@
+## Módulo: Módulo Não Identificado  
+--- ### HE4  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HE4|01|HE4_FILIAL|C|6|0|Filial|Filial
+HE4|02|HE4_ID|C|6|0|ID|ID Filtro da Tabela
+HE4|03|HE4_CODIGO|C|3|0|Codigo|Código
+HE4|04|HE4_DESCRI|C|15|0|Descrição|Descrição
+HE4|05|HE4_TIPO|C|1|0|TIPO|TIPO
+HE4|06|HE4_INTR|C|1|0|INTR|Flag controle MCS
+HE4|07|HE4_VER|N|10|0|VER|Versao do registro
+

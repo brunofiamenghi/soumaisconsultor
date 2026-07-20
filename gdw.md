@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GDW  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GDW|01|GDW_FILIAL|C|6|0|Filial|Filial do Sistema
+GDW|02|GDW_CODTER|C|6|0|Codigo|CODIGO DO TERMO RESPONSAB
+GDW|03|GDW_DESCRI|C|40|0|Descricao|Descricao Termo Responsab
+GDW|04|GDW_TEXTO|M|80|0|Texto|Texto
+GDW|05|GDW_LOGARQ|C|40|0|LOG|Log do arquivo
+

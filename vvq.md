@@ -1,0 +1,7 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VVQ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VVQ|01|VVQ_FILIAL|C|6|0|Filial|Filial
+VVQ|02|VVQ_GRUCOR|C|2|0|Grupo da Cor|Grupo da Cor
+VVQ|03|VVQ_DESCRI|C|20|0|Descricao|Descricao
+

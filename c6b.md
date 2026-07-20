@@ -1,0 +1,8 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C6B  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C6B|01|C6B_FILIAL|C|6|0|Filial|Filial
+C6B|02|C6B_ID|C|6|0|ID|Identificador Registro
+C6B|03|C6B_DIINI|C|12|0|Num.Dis.Ini|Num.Dis.Aut.Ini
+C6B|04|C6B_DIFIN|C|12|0|Num.Dis.Fin|Num.Dis.Aut.Fin
+

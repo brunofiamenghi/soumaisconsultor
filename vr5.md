@@ -1,0 +1,10 @@
+## Módulo: SIGACTB (Contabilidade Gerencial)  
+--- ### VR5  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VR5|01|VR5_FILIAL|C|6|0|Filial|Filial
+VR5|02|VR5_CODIGO|C|10|0|Codigo|Codigo
+VR5|03|VR5_CODSA3|C|6|0|Cod Vendedor|Cod. Vendedor
+VR5|04|VR5_LATITU|N|16|8|Latitude|Latitude
+VR5|05|VR5_DATA|D|8|0|Data|Data
+VR5|06|VR5_HORA|C|6|0|Hora|Hora
+

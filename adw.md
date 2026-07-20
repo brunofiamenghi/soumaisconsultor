@@ -1,0 +1,9 @@
+## Módulo: SIGATMK (Telemarketing)  
+--- ### ADW  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+ADW|01|ADW_FILIAL|C|6|0|Filial|Filial do Sistema
+ADW|02|ADW_CODIGO|C|6|0|Codigo|Codigo
+ADW|03|ADW_PROCES|C|6|0|Processo|Processo
+ADW|04|ADW_DESCEV|C|50|0|Nome|Nome
+ADW|05|ADW_FORMUL|C|200|0|Formula|Formula
+

@@ -1,0 +1,7 @@
+## Módulo: SIGACOR (Cargos e Salários)  
+--- ### ECC  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+ECC|01|ECC_FILIAL|C|6|0|Filial|Filial do Sistema
+ECC|02|ECC_IDENTC|C|10|0|Codigo|Codigo
+ECC|03|ECC_DESCR|C|40|0|Descricao|Descricao
+

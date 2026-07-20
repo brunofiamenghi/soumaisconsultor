@@ -1,0 +1,7 @@
+## Módulo: SIGAGCT (Gestão de Contratos)  
+--- ### QLN  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+QLN|01|QLN_FILIAL|C|6|0|Filial|Filial do Sistema
+QLN|02|QLN_MSUIDT|C|36|0|Campo UUID|Campo UUID
+QLN|03|QLN_STATUS|C|1|0|Status Copia|Status Copia
+

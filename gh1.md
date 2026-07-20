@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GH1  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GH1|01|GH1_FILIAL|C|6|0|Filial|Filial do Sistema
+GH1|02|GH1_CODCBO|C|6|0|Codigo|CBO SUS
+GH1|03|GH1_DESCBO|C|150|0|Descricao|Desc. CBO SUS
+GH1|04|GH1_LOGARQ|C|40|0|Log Arquivo|Log do Arquivo
+

@@ -1,0 +1,6 @@
+## Módulo: SIGAPON (Ponto Eletrônico)  
+--- ### RFL  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+RFL|01|RFL_FILIAL|C|6|0|Filial|Filial
+RFL|02|RFL_JORN|C|3|0|Jornada|Jornada
+

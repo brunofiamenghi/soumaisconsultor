@@ -1,0 +1,8 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### SYZ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+SYZ|01|YZ_FILIAL|C|6|0|FILIAL|FILIAL
+SYZ|02|YZ_CODIGO|C|11|0|Codigo ZFM|Codigo do Produto Suframa
+SYZ|03|YZ_DESCR|C|40|0|Descricao|Descricao do Produto
+SYZ|04|YZ_POSIPI|C|10|0|Pos.IPI/NCM|Pos.IPI/NCM
+

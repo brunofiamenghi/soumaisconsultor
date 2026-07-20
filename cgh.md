@@ -1,0 +1,13 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### CGH  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CGH|01|CGH_FILIAL|C|6|0|Filial|Filial
+CGH|02|CGH_ID|C|36|0|ID|Identificador do Registro
+CGH|03|CGH_PERIOD|D|8|0|Período|Período
+CGH|04|CGH_CNPJ|C|14|0|CNPJ Estab|CNPJ Estabelecimento
+CGH|05|CGH_VLREC|N|16|2|Rec Vendas|Receita de Vendas
+CGH|06|CGH_CNAE|C|7|0|CNAE|CNAE
+CGH|07|CGH_DCNAE|C|220|0|Desc CNAE|Descrição CNAE
+CGH|08|CGH_IDCNAE|C|36|0|Id CNAE|Id do CNAE
+CGH|09|CGH_STATUS|C|1|0|Status|Status do Registro
+

@@ -1,0 +1,9 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JBT  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JBT|01|JBT_FILIAL|C|6|0|FILIAL|FILIAL
+JBT|02|JBT_ANOLET|C|4|0|Ano Letivo|Ano Letivo
+JBT|03|JBT_CODCUR|C|6|0|Curso|Codigo Curso
+JBT|04|JBT_DCURSO|C|30|0|Descricao|Descricao Curso
+JBT|05|JBT_CONCEI|C|4|0|Conceito|Conceito MEC
+

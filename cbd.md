@@ -1,0 +1,7 @@
+## Módulo: SIGAESTR (Estruturas de Importação)  
+--- ### CBD  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CBD|01|CBD_FILIAL|C|6|0|Filial|Filial
+CBD|02|CBD_DATHOR|C|16|0|Data e Hora|Data e Hora
+CBD|03|CBD_CODOPE|C|6|0|Operador|Operador
+

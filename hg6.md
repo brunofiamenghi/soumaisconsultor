@@ -1,0 +1,23 @@
+## Módulo: Módulo Não Identificado  
+--- ### HG6  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HG6|01|HG6_ISTCIA|C|2|0|Instancia|Instancia
+HG6|02|HG6_LINPRO|C|2|0|Lin Prod|Linha de Produto
+HG6|03|HG6_GRPEMP|C|10|0|Grp Emp|Grupo de Empresa
+HG6|04|HG6_CDUNEG|C|10|0|Unid Neg|Unidade de Negócio
+HG6|05|HG6_CDEMPR|C|10|0|Empresa|Empresa
+HG6|06|HG6_FILIAL|C|6|0|Filial|Filial
+HG6|07|HG6_TIPCUR|C|32|0|MD5 Tp Curso|Tipo Curso - MD5
+HG6|08|HG6_CODIGO|C|10|0|Codigo|Codigo
+HG6|09|HG6_DESC|C|40|0|Descrição|Descrição
+HG6|10|HG6_LIVRE0|C|50|0|Livre 0|Livre 0
+HG6|11|HG6_LIVRE1|C|50|0|Livre 1|Livre 1
+HG6|12|HG6_LIVRE2|C|50|0|Livre 2|Livre 2
+HG6|13|HG6_LIVRE3|C|50|0|Livre 3|Livre 3
+HG6|14|HG6_LIVRE4|C|50|0|Livre 4|Livre 4
+HG6|15|HG6_LIVRE5|C|50|0|Livre 5|Livre 5
+HG6|16|HG6_LIVRE6|C|50|0|Livre 6|Livre 6
+HG6|17|HG6_LIVRE7|C|50|0|Livre 7|Livre 7
+HG6|18|HG6_LIVRE8|C|50|0|Livre 8|Livre 8
+HG6|19|HG6_LIVRE9|C|50|0|Livre 9|Livre 9
+

@@ -1,0 +1,9 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JAB  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JAB|01|JAB_FILIAL|C|6|0|FILIAL|Filial
+JAB|02|JAB_CODIGO|C|6|0|Codigo|Codigo
+JAB|03|JAB_CGC|C|14|0|CGC/CNPJ|CGC/CNPJ
+JAB|04|JAB_NOME|C|40|0|Nome Conveni|Nome Convenio
+JAB|05|JAB_DESCON|N|6|2|% Desconto|% Desconto
+

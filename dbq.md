@@ -1,0 +1,8 @@
+## Módulo: SIGAEDU (Gestão Escolar)  
+--- ### DBQ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+DBQ|01|DBQ_FILIAL|C|6|0|Filial|Filial.
+DBQ|02|DBQ_COD|C|7|0|Código|Codigo do SQL.
+DBQ|03|DBQ_DESC|C|50|0|Descrição|Descrição do comando SQL.
+DBQ|04|DBQ_SQL|M|999|0|SQL|Comando SQL.
+

@@ -1,0 +1,7 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C7V  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C7V|01|C7V_FILIAL|C|6|0|Filial|Filial
+C7V|02|C7V_ID|C|6|0|ID|ID
+C7V|03|C7V_DOCCAN|C|9|0|Nº Doc.Canc.|Nº Documento Cancelado
+

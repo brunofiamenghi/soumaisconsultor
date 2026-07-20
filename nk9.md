@@ -1,0 +1,15 @@
+## Módulo: SIGAWCO (Web Control / Integrações de Coleta)  
+--- ### NK9  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+NK9|01|NK9_FILIAL|C|6|0|Filial|Filial
+NK9|02|NK9_LOTE|C|10|0|Lote|Lote
+NK9|03|NK9_DATA|D|8|0|Data|Data
+NK9|04|NK9_HORA|C|8|0|Hora|Hora
+NK9|05|NK9_NOMUSU|C|40|0|Nome Usuario|Nome Usuario
+NK9|06|NK9_MSGMEM|M|10|0|Ajuda|Ajuda
+NK9|07|NK9_MSGMEV|C|200|0|Descricao|Descricao
+NK9|08|NK9_TIPOMS|C|1|0|Tipo Msg|Tipo Msg
+NK9|09|NK9_TABLE|C|3|0|Tabela|Tabela
+NK9|10|NK9_CHAVE|C|140|0|Chave|Chave
+NK9|11|NK9_DSTPMS|C|25|0|Tipo Msg|Tipo Msg
+

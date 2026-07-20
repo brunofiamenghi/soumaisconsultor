@@ -1,0 +1,7 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VZC  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VZC|01|VZC_FILIAL|C|6|0|Filial|Filial
+VZC|02|VZC_CODFAS|C|3|0|Codigo|Codigo
+VZC|03|VZC_DESFAS|C|30|0|Descricao|Descricao
+

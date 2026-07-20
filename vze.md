@@ -1,0 +1,7 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VZE  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VZE|01|VZE_FILIAL|C|6|0|Filial|Filial
+VZE|02|VZE_CODIGO|C|3|0|Codigo|Codigo
+VZE|03|VZE_DESCRI|C|50|0|Descricao|Descricao
+

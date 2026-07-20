@@ -1,0 +1,7 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### BVY  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+BVY|01|BVY_FILIAL|C|6|0|Filial|Filial do Sistema
+BVY|02|BVY_TAG550|C|35|0|Tag A500|Tag A500
+BVY|03|BVY_DESTAG|C|150|0|Descri. Tag|Descri. Tag
+

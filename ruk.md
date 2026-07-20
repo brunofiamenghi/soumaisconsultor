@@ -1,0 +1,9 @@
+## Módulo: Módulo Não Identificado  
+--- ### RUK  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+RUK|01|RUK_FILIAL|C|6|0|Filial|Filial
+RUK|02|RUK_FILCCT|C|6|0|Filial CCT|Filial da CCT
+RUK|03|RUK_CODCCT|C|8|0|Cód. CCT|Código da CCT
+RUK|04|RUK_ESTADO|C|2|0|Estado|Estado da CTT
+RUK|05|RUK_CODMUN|C|5|0|Cód. Munic.|Cód. Município da CCT
+

@@ -1,0 +1,12 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JCM  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JCM|01|JCM_FILIAL|C|6|0|FILIAL|FILIAL
+JCM|02|JCM_NUMRA|C|15|0|Numero do RA|Numero do RA
+JCM|03|JCM_DATA1|D|8|0|Data de|Data de
+JCM|04|JCM_DATA2|D|8|0|Data ate|Data ate
+JCM|05|JCM_CODCID|C|8|0|Codigo CID|Codigo CID
+JCM|06|JCM_DCID|C|30|0|Descr. CID|Descricao CID
+JCM|07|JCM_MEMO1|C|6|0|Codigo Memo|Motivo
+JCM|08|JCM_OBSERV|M|80|0|Observacao|Observacao
+

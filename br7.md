@@ -1,0 +1,10 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### BR7  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+BR7|01|BR7_FILIAL|C|6|0|Filial|Filial
+BR7|02|BR7_FLDTDE|C|10|0|Campo TDE|Campo TDE
+BR7|03|BR7_DESTDE|C|30|0|Descr. TDE|Titulo do Campo TDE
+BR7|04|BR7_FLDPSA|C|10|0|Campo PSA|Campo PSA
+BR7|05|BR7_DESPSA|C|30|0|Descr. PSA|Titulo PSA
+BR7|06|BR7_PROCES|C|1|0|Processo De:|Processo De ?
+

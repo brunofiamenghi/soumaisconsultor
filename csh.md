@@ -1,0 +1,10 @@
+## Módulo: SIGAGCT (Gestão de Contratos)  
+--- ### CSH  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CSH|01|CSH_FILIAL|C|6|0|Filial|Filial do Sistema
+CSH|02|CSH_MODELO|C|10|0|Modelo|Modelo
+CSH|03|CSH_ITEM|C|6|0|Item|Item
+CSH|04|CSH_RGRVLD|C|100|0|Regra|Regra
+CSH|05|CSH_DESCRI|C|254|0|Descricao|Descrição
+CSH|06|CSH_TIPO|C|1|0|Tipo|Tipo
+

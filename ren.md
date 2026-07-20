@@ -1,0 +1,8 @@
+## Módulo: Módulo Não Identificado  
+--- ### REN  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+REN|01|REN_FILIAL|C|6|0|Filial|Filial
+REN|02|REN_TIPO|C|1|0|Tipo|Tipo
+REN|03|REN_CODIGO|C|20|0|Código|Código
+REN|04|REN_DESC|C|100|0|Descrição|Descrição
+

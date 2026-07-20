@@ -1,0 +1,9 @@
+## Módulo: SIGAORG (Arquitetura Organizacional)  
+--- ### RBL  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+RBL|01|RBL_FILIAL|C|6|0|Filial|Filial
+RBL|02|RBL_ESCALA|C|2|0|Codigo|Codigo
+RBL|03|RBL_ITEM|C|2|0|Item|Item
+RBL|04|RBL_DESCRI|C|60|0|Descricao|Descricao
+RBL|05|RBL_VALOR|N|6|2|Valor|Valor
+

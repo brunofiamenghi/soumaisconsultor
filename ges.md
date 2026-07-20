@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GES  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GES|01|GES_FILIAL|C|6|0|Filial|Filial do Sistema
+GES|02|GES_CODIGO|C|6|0|Codigo|Codigo
+GES|03|GES_DESCRI|C|40|0|Descricao|Descricao do motivo
+GES|04|GES_LOGARQ|C|40|0|LOG|LOG DE ARQUIVO
+GES|05|GES_TIPO|C|1|0|Tipo|Tipo de Motivo
+

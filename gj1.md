@@ -1,0 +1,8 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GJ1  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GJ1|01|GJ1_FILIAL|C|6|0|FILIAL|FILIAL
+GJ1|02|GJ1_CODHAB|C|4|0|Cod Habilit|Codigo Habilitacao
+GJ1|03|GJ1_DESCRI|C|150|0|Descricao|Descricao
+GJ1|04|GJ1_COMPET|C|6|0|Competencia|Competencia
+

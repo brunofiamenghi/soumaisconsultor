@@ -1,0 +1,10 @@
+## Módulo: SIGACOR (Cargos e Salários)  
+--- ### ECD  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+ECD|01|ECD_FILIAL|C|6|0|Filial|Filial do Sistema
+ECD|02|ECD_ARQ|C|8|0|Arquivo|Arquivo
+ECD|03|ECD_CHAVE|C|30|0|Chave|Chave
+ECD|04|ECD_DATA|D|8|0|Data|Data
+ECD|05|ECD_USER|C|25|0|Usuario|Usuario
+ECD|06|ECD_MOTIVO|C|50|0|Motivo|Motivo
+

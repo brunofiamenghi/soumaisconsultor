@@ -1,0 +1,13 @@
+## Módulo: SIGAHDL (Help Desk / Service Desk Integrado)  
+--- ### JNY  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JNY|01|JNY_FILIAL|C|6|0|Filial|Filial
+JNY|02|JNY_CODIGO|C|10|0|Código|Codigo
+JNY|03|JNY_DESCRI|C|120|0|Descrição|Descrição
+JNY|04|JNY_CODUSR|C|6|0|Usuário|Usuário
+JNY|05|JNY_CODJN3|C|10|0|O.S|Ordem de Serviço
+JNY|06|JNY_CODJN6|C|10|0|Agenda|Agenda
+JNY|07|JNY_CODAA1|C|14|0|Atendente|Atendente
+JNY|08|JNY_DTINCL|D|8|0|Data|Data
+JNY|09|JNY_HRINCL|C|5|0|Hora|Hora
+

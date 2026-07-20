@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GJC  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GJC|01|GJC_FILIAL|C|6|0|FILIAL|FILIAL
+GJC|02|GJC_CDGSUS|C|2|0|Cod Crupo|Codigo Grupo
+GJC|03|GJC_CSGSUS|C|2|0|Cod Subgupo|Codigo Subgrupo SUS
+GJC|04|GJC_DSGSUS|C|100|0|Descricao|Descricao
+GJC|05|GJC_COMPET|C|6|0|Competencia|Competencia
+

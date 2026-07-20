@@ -1,0 +1,15 @@
+## Módulo: SIGAMDT (Medicina e Segurança do Trabalho)  
+--- ### EIY  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+EIY|01|EIY_FILIAL|C|6|0|Filial|Filial
+EIY|02|EIY_HAWB|C|20|0|Processo|Processo
+EIY|03|EIY_PO_NUM|C|20|0|Pedido|Pedido
+EIY|04|EIY_POSICA|C|4|0|Posição|Posição
+EIY|05|EIY_PGI_NU|C|10|0|PGI|PGI
+EIY|06|EIY_INVOIC|C|20|0|Invoice|Invoice
+EIY|07|EIY_LOTECT|C|15|0|Lote|Lote
+EIY|08|EIY_DESPES|C|33|0|Despesa|Despesa
+EIY|09|EIY_ORIGEM|C|30|0|Origem|Origem
+EIY|10|EIY_VALOR|N|15|2|Valor R$|Valor R$
+EIY|11|EIY_MARCA|C|2|0|Marca|Marca
+

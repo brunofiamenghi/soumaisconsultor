@@ -1,0 +1,41 @@
+## Módulo: SIGACRM (Customer Relationship Management)  
+--- ### B3N  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+B3N|01|B3N_FILIAL|C|6|0|nao usado|nao usado
+B3N|02|B3N_SEQUEN|C|8|0|nao usado|nao usado
+B3N|03|B3N_CODOPE|C|4|0|nao usado|nao usado
+B3N|04|B3N_CODLDP|C|4|0|nao usado|nao usado
+B3N|05|B3N_CODPEG|C|8|0|nao usado|nao usado
+B3N|06|B3N_NUMERO|C|8|0|nao usado|nao usado
+B3N|07|B3N_CODUNM|C|3|0|nao usado|nao usado
+B3N|08|B3N_CODRDA|C|6|0|nao usado|nao usado
+B3N|09|B3N_VLRPAG|N|16|2|nao usado|nao usado
+B3N|10|B3N_NLANC|C|2|0|nao usado|nao usado
+B3N|11|B3N_MESPAG|C|2|0|nao usado|nao usado
+B3N|12|B3N_ANOPAG|C|4|0|nao usado|nao usado
+B3N|13|B3N_DATPRO|D|8|0|nao usado|nao usado
+B3N|14|B3N_NUMLOT|C|10|0|nao usado|nao usado
+B3N|15|B3N_VLRAPR|N|16|4|nao usado|nao usado
+B3N|16|B3N_VLRMAN|N|16|2|nao usado|nao usado
+B3N|17|B3N_VLRGLO|N|16|2|nao usado|nao usado
+B3N|18|B3N_ORIMOV|C|1|0|nao usado|nao usado
+B3N|19|B3N_VLRTPF|N|16|2|nao usado|nao usado
+B3N|20|B3N_DTPRV|D|8|0|nao usado|nao usado
+B3N|21|B3N_VLPRV|N|16|4|nao usado|nao usado
+B3N|22|B3N_DTPRO|D|8|0|nao usado|nao usado
+B3N|23|B3N_LAREV|C|1|0|nao usado|nao usado
+B3N|24|B3N_QTDPRV|N|9|2|nao usado|nao usado
+B3N|25|B3N_TPUNIM|C|2|0|nao usado|nao usado
+B3N|26|B3N_TPHIST|C|1|0|nao usado|nao usado
+B3N|27|B3N_DTHIST|D|8|0|nao usado|nao usado
+B3N|28|B3N_DTLOTE|D|8|0|Dt. Lote|nao usado
+B3N|29|B3N_SEQEVN|C|3|0|nao usado|nao usado
+B3N|30|B3N_TIPGUI|C|2|0|nao usado|nao usado
+B3N|31|B3N_CODLOC|C|4|0|nao usado|nao usado
+B3N|32|B3N_CODEMP|C|4|0|nao usado|nao usado
+B3N|33|B3N_TIPREG|C|2|0|nao usado|nao usado
+B3N|34|B3N_MATRIC|C|6|0|nao usado|nao usado
+B3N|35|B3N_OPEUSR|C|4|0|nao usado|nao usado
+B3N|36|B3N_CODPAD|C|2|0|nao usado|nao usado
+B3N|37|B3N_CODPRO|C|16|0|nao usado|nao usado
+

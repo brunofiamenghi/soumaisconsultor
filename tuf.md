@@ -1,0 +1,14 @@
+## Módulo: SIGAQNC (Não Conformidades)  
+--- ### TUF  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+TUF|01|TUF_FILIAL|C|6|0|Filial|Filial do Sistema
+TUF|02|TUF_CODUSR|C|6|0|Usuário|Usuário
+TUF|03|TUF_LOGUSR|C|25|0|Login|Login
+TUF|04|TUF_NOMUSR|C|40|0|Nome|Nome
+TUF|05|TUF_DEPUSR|C|40|0|Departamento|Departamento
+TUF|06|TUF_CARUSR|C|40|0|Cargo|Cargo
+TUF|07|TUF_EMAUSR|C|60|0|E-mail|E-mail
+TUF|08|TUF_RAMUSR|C|4|0|Ramal|Ramal
+TUF|09|TUF_TE1USR|C|14|0|Contato 1|Contato 1
+TUF|10|TUF_TE2USR|C|14|0|Contato 2|Contato 2
+

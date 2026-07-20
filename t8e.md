@@ -1,0 +1,11 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### T8E  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+T8E|01|T8E_FILIAL|C|6|0|fILIAL|fILIAL
+T8E|02|T8E_ID|C|36|0|Id|Id da tabela
+T8E|03|T8E_VERSAO|C|14|0|Versao|Versao
+T8E|04|T8E_PERREF|C|6|0|Per. Ref.|Per. Ref Ajuste
+T8E|05|T8E_NRREC|C|44|0|Rec. 1210Ori|Nr. Recibo S-1210 origem.
+T8E|06|T8E_SEQIRC|C|2|0|Sequencia|Sequencia
+T8E|07|T8E_DTLAUD|D|8|0|Dt. Laudo|Data do Laudo
+

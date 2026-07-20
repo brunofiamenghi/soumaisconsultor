@@ -1,0 +1,9 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C0H  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C0H|01|C0H_FILIAL|C|6|0|Filial|Filial
+C0H|02|C0H_ID|C|6|0|ID|Identificador Registro
+C0H|03|C0H_CODIGO|C|2|0|Cod CST ISS|Código do CST do ISS
+C0H|04|C0H_DESCRI|C|220|0|Desc CST ISS|Descr CST do ISS
+C0H|05|C0H_VALIDA|D|8|0|Data Vigenc.|Data da vigência do ISS
+

@@ -1,0 +1,8 @@
+## Módulo: SIGAEDC (Garantia da Qualidade / GED)  
+--- ### TKA  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+TKA|01|TKA_FILIAL|C|6|0|Filial|Filial
+TKA|02|TKA_INTERV|C|6|0|Intervalo|Intervalo
+TKA|03|TKA_CNAE|C|7|0|CNAE|CNAE
+TKA|04|TKA_ATIVID|C|20|0|Descricao|Descricao
+

@@ -1,0 +1,13 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C2P  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C2P|01|C2P_FILIAL|C|6|0|Filial|Filial
+C2P|02|C2P_ID|C|6|0|ID|Identificador Registro
+C2P|03|C2P_CFOP|C|6|0|Id. CFOP|Indicador CFOP
+C2P|04|C2P_DCFOP|C|220|0|Desc CFOP|Descrição CFOP
+C2P|05|C2P_CSTIPI|C|6|0|Id. CST IPI|Id. CST IPI
+C2P|06|C2P_DCSTIP|C|220|0|Desc CST IPI|Descrição do CST de IPI
+C2P|07|C2P_VLCONT|N|16|2|Val Contabil|Valor Contabil
+C2P|08|C2P_VLBC|N|16|2|Valor BC|Valor de Base de Calculo
+C2P|09|C2P_VLIPI|N|16|2|Valor de IPI|Valor de IPI
+

@@ -1,0 +1,8 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VL0  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VL0|01|VL0_FILIAL|C|6|0|Filial|Filial
+VL0|02|VL0_CODPEC|C|15|0|Código Peça|Código Peça (SB1)
+VL0|03|VL0_SEGMTO|C|1|0|Segmento|Segmento da Peça
+VL0|04|VL0_PPPJD|C|1|0|Usa JD PPP?|Usa JD PPP?
+

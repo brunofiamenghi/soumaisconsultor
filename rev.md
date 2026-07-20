@@ -1,0 +1,7 @@
+## Módulo: SIGAEDR (Diário de Obras / Engenharia)  
+--- ### REV  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+REV|01|REV_FILIAL|C|6|0|Filial|Filial
+REV|02|REV_CODIGO|C|3|0|Codigo|Codigo
+REV|03|REV_DESCRI|C|50|0|Descricao|Descricao
+

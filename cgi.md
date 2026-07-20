@@ -1,0 +1,12 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### CGI  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CGI|01|CGI_FILIAL|C|6|0|Filial|Filial
+CGI|02|CGI_ID|C|36|0|ID|Identificador do Registro
+CGI|03|CGI_PERIOD|D|8|0|Período|Período
+CGI|04|CGI_CNPJ|C|14|0|CNPJ Exporta|CNPJ Exportadora
+CGI|05|CGI_CODNCM|C|10|0|NCM|NCM
+CGI|06|CGI_DCODNC|C|220|0|Desc. NCM|Descrição NCM
+CGI|07|CGI_VLVEND|N|16|2|Val Venda|Valor da Venda
+CGI|08|CGI_STATUS|C|1|0|Status|Status do Registro
+

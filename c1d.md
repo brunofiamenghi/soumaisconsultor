@@ -1,0 +1,9 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### C1D  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+C1D|01|C1D_FILIAL|C|6|0|Filial|Filial
+C1D|02|C1D_ID|C|6|0|ID|Identificador Registro
+C1D|03|C1D_CODIGO|C|2|0|Cod Apur P/C|Cod Apuração (PIS/COFINS)
+C1D|04|C1D_DESCRI|C|220|0|Des Apur P/C|Descr Apuração PIS/COFINS
+C1D|05|C1D_VALIDA|D|8|0|Data Vigenc.|Data Vigênc. Apur PIS/COF
+

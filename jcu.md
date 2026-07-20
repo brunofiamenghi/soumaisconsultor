@@ -1,0 +1,9 @@
+## Módulo: SIGAOFT (Oficina de Concessionárias)  
+--- ### JCU  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+JCU|01|JCU_FILIAL|C|6|0|FILIAL|FILIAL
+JCU|02|JCU_COD|C|6|0|Cod.Depto.|Codigo do Departamento
+JCU|03|JCU_ITEM|C|2|0|Item|Item
+JCU|04|JCU_USUA|C|6|0|Usuario|Usuario
+JCU|05|JCU_NOME|C|20|0|Nome|Nome
+

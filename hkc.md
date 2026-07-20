@@ -1,0 +1,17 @@
+## Módulo: Módulo Não Identificado  
+--- ### HKC  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HKC|01|HKC_CDFATO|C|3|0|Identifciad.|Identificador de Tabela
+HKC|02|HKC_CDMOED|C|10|0|Moeda|Moeda Extração
+HKC|03|HKC_FILIAL|C|6|0|Filial|Filial do Sistema
+HKC|04|HKC_LIVRE0|C|50|0|Livre 0|Livre 0
+HKC|05|HKC_LIVRE1|C|50|0|Livre 1|Livre 1
+HKC|06|HKC_LIVRE2|C|50|0|Livre 2|Livre 2
+HKC|07|HKC_LIVRE3|C|50|0|Livre 3|Livre 3
+HKC|08|HKC_LIVRE4|C|50|0|Livre 4|Livre 4
+HKC|09|HKC_LIVRE5|C|50|0|Livre 5|Livre 5
+HKC|10|HKC_LIVRE6|C|50|0|Livre 6|Livre 6
+HKC|11|HKC_LIVRE7|C|50|0|Livre 7|Livre 7
+HKC|12|HKC_LIVRE8|C|50|0|Livre 8|Livre 8
+HKC|13|HKC_LIVRE9|C|50|0|Livre 9|Livre 9
+

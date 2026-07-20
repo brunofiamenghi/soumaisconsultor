@@ -1,0 +1,8 @@
+## Módulo: SIGAGCT (Gestão de Contratos)  
+--- ### CSR  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CSR|01|CSR_FILIAL|C|6|0|Filial|Filial do Sistema
+CSR|02|CSR_CODREV|C|6|0|Cod.Revisão|Código da Revisão
+CSR|03|CSR_IDTSCP|C|14|0|Ident.SCP|Identificador SCP
+CSR|04|CSR_NOMSCP|C|50|0|Nome SCP|Nome SCP
+

@@ -1,0 +1,15 @@
+## Módulo: Módulo Não Identificado  
+--- ### HCP  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HCP|01|HCP_FILIAL|C|6|0|FILIAL|FILIAL
+HCP|02|HCP_ID|C|6|0|ID|ID FILTRO DE TABELA
+HCP|03|HCP_CODREG|C|6|0|Código Regra|Código da Regra
+HCP|04|HCP_ITEM|C|3|0|Item|Item
+HCP|05|HCP_CODPRO|C|15|0|Produto|Produto
+HCP|06|HCP_GRUPO|C|4|0|Grupo|Grupo
+HCP|07|HCP_PERDES|N|6|2|% Desconto|% Desconto
+HCP|08|HCP_FAIXA|N|9|2|Faixa|Faixa
+HCP|09|HCP_CFAIXA|C|20|0|Ind. Faixa|Indicado da Faixa
+HCP|10|HCP_INTR|C|1|0|INTR|Flag de controle do MCS
+HCP|11|HCP_VER|N|10|0|Ver|Versão do registro
+

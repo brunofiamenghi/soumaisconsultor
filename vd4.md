@@ -1,0 +1,10 @@
+## Módulo: SIGAGPR (Gestão de Processos)  
+--- ### VD4  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+VD4|01|VD4_FILIAL|C|6|0|Filial|Filial
+VD4|02|VD4_USER|C|50|0|Usuario|Usuario
+VD4|03|VD4_PASS|C|50|0|Senha|Senha
+VD4|04|VD4_ORDER|C|50|0|Num. Ordem|Num. Ordem
+VD4|05|VD4_PARTNO|C|50|0|Cod.Prod|Cod.Prod
+VD4|06|VD4_QUANT|N|14|4|Quantidade|Quantidade
+

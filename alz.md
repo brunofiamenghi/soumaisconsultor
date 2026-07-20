@@ -1,0 +1,11 @@
+## Módulo: SIGAGEP (Gestão Educacional)  
+--- ### ALZ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+ALZ|01|ALZ_FILIAL|C|6|0|Filial|Filial do Sistema
+ALZ|02|ALZ_CODPRO|C|15|0|Cod.Prod.PPA|Codigo Produto PPA
+ALZ|03|ALZ_DESPRO|C|80|0|Desc.Prd.PPA|Descrição Produto PPA
+ALZ|04|ALZ_UNITAB|C|2|0|Tab.UM.PPA|Tabela Unid.Med.Prod.PPA
+ALZ|05|ALZ_UNIRAD|C|6|0|Rad.UM PPA|Radical Tab UM Prod.PPA
+ALZ|06|ALZ_UNICOD|C|10|0|Cod.UM PPA|Codigo Unid.Med.PPA
+ALZ|07|ALZ_UNIPRO|C|25|0|Unid.Med.PPA|Unidade Medida Prod.PPA
+

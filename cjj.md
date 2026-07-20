@@ -1,0 +1,8 @@
+## Módulo: Módulo Não Identificado  
+--- ### CJJ  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+CJJ|01|CJJ_FILIAL|C|6|0|FILIAL|FILIAL
+CJJ|02|CJJ_FTRIBU|C|50|0|Form Tributo|Formula do Tributo
+CJJ|03|CJJ_FBASEC|C|10|0|Form Base Co|Formula Base Composicao
+CJJ|04|CJJ_JFORMU|M|10|0|JSON FORMULA|JSON da Formula
+

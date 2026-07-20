@@ -1,0 +1,13 @@
+## Módulo: Módulo Não Identificado  
+--- ### HCR  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HCR|01|HCR_FILIAL|C|6|0|Filial|Filial
+HCR|02|HCR_ID|C|6|0|ID|ID FILTRO DE TABELA
+HCR|03|HCR_ITEM|C|3|0|Item|Item
+HCR|04|HCR_CODPRO|C|15|0|Produto|Produto
+HCR|05|HCR_GRUPO|C|4|0|Grupo|Grupo
+HCR|06|HCR_CODREG|C|6|0|Código Regra|Código da Regra
+HCR|07|HCR_LOTE|N|9|2|Lote|Lote
+HCR|08|HCR_INTR|C|1|0|INTR|Flag de Controle do MCS
+HCR|09|HCR_VER|N|10|0|Ver|Versão do registro
+

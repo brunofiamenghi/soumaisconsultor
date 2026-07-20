@@ -1,0 +1,9 @@
+## Módulo: SIGAOMS (Gestão de Distribuição)  
+--- ### GLC  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+GLC|01|GLC_FILIAL|C|6|0|FILIAL|FILIAL
+GLC|02|GLC_CDGSUS|C|2|0|Cod Crupo|Codigo Grupo
+GLC|03|GLC_CSGSUS|C|2|0|Cod Subgupo|Codigo Subgrupo SUS
+GLC|04|GLC_DSGSUS|C|100|0|Descricao|Descricao
+GLC|05|GLC_COMPET|C|6|0|Competencia|Competencia
+

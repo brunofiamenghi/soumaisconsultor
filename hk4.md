@@ -1,0 +1,17 @@
+## Módulo: Módulo Não Identificado  
+--- ### HK4  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+HK4|01|HK4_CDAREA|C|3|0|Identificad.|Identificador da Area
+HK4|02|HK4_FILIAL|C|6|0|Filial|Filial do Sistema
+HK4|03|HK4_DSAREA|C|50|0|Nome Area|Nome da Area
+HK4|04|HK4_LIVRE0|C|50|0|Livre 0|Livre 0
+HK4|05|HK4_LIVRE1|C|50|0|Livre 1|Livre 1
+HK4|06|HK4_LIVRE2|C|50|0|Livre 2|Livre 2
+HK4|07|HK4_LIVRE3|C|50|0|Livre 3|Livre 3
+HK4|08|HK4_LIVRE4|C|50|0|Livre 4|Livre 4
+HK4|09|HK4_LIVRE5|C|50|0|Livre 5|Livre 5
+HK4|10|HK4_LIVRE6|C|50|0|Livre 6|Livre 6
+HK4|11|HK4_LIVRE7|C|50|0|Livre 7|Livre 7
+HK4|12|HK4_LIVRE8|C|50|0|Livre 8|Livre 8
+HK4|13|HK4_LIVRE9|C|50|0|Livre 9|Livre 9
+

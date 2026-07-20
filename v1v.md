@@ -1,0 +1,14 @@
+## Módulo: SIGATAF (TOTVS Automação Fiscal)  
+--- ### V1V  
+X3_ARQUIVO|X3_ORDEM|X3_CAMPO|X3_TIPO|X3_TAMANHO|X3_DECIMAL|X3_TITULO|X3_DESCRIC  
+V1V|01|V1V_FILIAL|C|6|0|Filial|Filial
+V1V|02|V1V_ID|C|36|0|ID|Identificador do Registro
+V1V|03|V1V_TABELA|C|3|0|Tabela|Tabela
+V1V|04|V1V_CHAVE|C|220|0|Chav Negocio|Chave de Negócio
+V1V|05|V1V_VATUAL|C|44|0|Val Atual|Valor Atual
+V1V|06|V1V_CHECK1|C|120|0|Check1|Check1
+V1V|07|V1V_CHECK2|C|120|0|Check2|Check2
+V1V|08|V1V_CHECK3|C|120|0|Check3|Check3
+V1V|09|V1V_CHECK4|C|120|0|Check4|Check4
+V1V|10|V1V_DECRIP|C|1|0|Atualizado|Registro Atualizado
+
